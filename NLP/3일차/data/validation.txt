@@ -1,0 +1,1000 @@
+age	EEECCCCCCCCCCCCCCCCCCCCCC	장진형의 나이를 WIKIPEDIA에서 검색해줘
+age	EEEEEEEEEECCCCCCCCCCCCC	보리슬라프 기디코프 나이는 WIKI 사전에
+age	EEEEEECCCCCCCC	오거스틴 섬 나이를 탐색해
+age	EEEEEECCCCCCCCCCCCCCCCCCC	오거스틴 섬의 나이를 WIKIPEDIA 알려줘
+age	CCCCCCCCCCCCEEEEECCCCCCC	WIKI PEDIA로 라스알가헤 나이 탐색해
+age	CCCCCCCCCCEEEEEEEEEECCCCCCC	WIKI사전백과로 HIP 102152 나이 얼마야
+age	CCCCCCCEEEEEEEEECCCCCCCCCCCCC	WIKI백과 HIP 37826 나이가 몇인지 알려줘라
+age	EEEEEEECCCCCCCCCCCCC	미쓰이 히사시 나이는 몇인지 찾아줘라
+age	CCCCCEEEEEECCCCCCCC	검색으로 이카리 신지 나이는 어떤지
+age	EEEEEEEEEEECCCCCCCCC	피통드라푸르네즈 화산의 나이 탐색해줘
+age	EEECCCCCCCCCCCCCCCC	일출봉 나이를 WIKI에서 검색해줘
+age	EEEEEECCCCCCC	에모리 도루는 나이 뭐야
+age	CCCCCCCCEEEEEECCCCCCCCCCCC	WIKI 사전 스콧 에번스 나이는 몇인지 알려줘
+age	CCCCCCCCCCEEECCCCCCCCCCCC	WIKI 사전으로 누레딘의 나이 어떻게 되는지
+age	EEEEEECCCCCCCCCCCCCC	앤절라 존슨 나이 WIKI에서 알려줘
+age	EECCCCCCCCCCCCC	지우 나이는 몇인지 알려줘라
+age	EEECCCCCCCCCC	황쉬안의 나이를 검색해줘
+age	CCCCCCCCCCCEEECCCCCCCC	WIKI사전백과에서 고희도 나이를 탐색해
+age	EEECCCCCCCCCCCCCCCCCCCCCCC	신형선 나이를 WIKIPEDIA백과에서 검색해줘
+age	EEECCCCCCCCCCCC	진기정 나이는 몇인지 찾아줘
+age	EEEEEECCCCCCCCCCCCCCCCCCCC	데이토나비치 나이가 WIKI PEDIA에 얼만지
+age	CCCCCCCCCEEEEEECCC	위키 백과 검색 침보라소 산 나이
+age	CCCCCCCCCCCCCCCEEEEEEEECCCCCCC	WIKIPEDIA백과 검색 쌍둥이자리 37 나이 찾아봐
+age	EEEEEEECCCCCCCC	신죠우 히나키 나이를 알아봐
+age	EEEEECCCCCCCCCCCCCCCC	경주봉황로 나이를 WIKI백과로 검색해
+age	EEEEEEEEECCCCCCCCCCC	울프 1055 B 나이는 몇인지 찾아
+age	CCCCCCCEEEEEECCCCCCCCCCCCC	위키사전에서 소와 히로시 나이는 몇인지 찾아줘라
+age	EEEEEEEEEEECCCCCCCCC	성산일출봉천연보호구역의 나이 찾아주라
+age	EEEEEEECCCCCCCCCCCCCCCCCCCCC	물병자리 세타의 나이가 WIKI백과로 얼마나 되는지
+age	CCCCCEEECCCCCCCCCCC	들어가서 임규찬의 나이가 어떻게 돼
+age	EEEEEECCCCCCC	에모리 도루는 나이 뭐야
+age	EEEEEECCCCCC	키세 야요이 나이 뭔지
+age	EEEEEEECCCCCCCCC	마르틴 보어만이 나이가 어떤지
+age	EEEEEEECCCCCCCCC	시리우스 항성의 나이는 어떤지
+age	EEEEECCCCCCCCCCCCCCCCCC	양카이후이 나이 WIKI백과사전에서 알려줘
+age	CCCEEECCCCCC	검색 한지우가 나이 뭐
+age	CCCCCCCCCCCCEEEEEEEECCCCCCCC	WIKI백과사전 검색 HD 40307의 나이가 뭐야
+age	EEEEECCCCCCCCCCCCC	초록털말목 나이가 몇인지 찾아줘라
+age	EEEEEEEECCCCCCCC	양 웬리의 기함 나이를 찾아봐
+age	EEEEEEECCCCCCC	우아스카란 산 나이는 뭐지
+age	EEECCCCCCC	황 산 나이를 찾아
+age	CCCCCCCCCCCEEEECCCCCC	위키 백과 검색으로 디아볼로 나이는 뭐
+age	CCCCCCCCCCCEEEEEEEEEECCCCCCCCC	WIKIPEDIA로 HIP 113368의 나이를 알아봐
+age	CCCCCEEECCCCCCCCCC	WIKI 간달프의 나이를 검색해봐
+age	CCCEEEECCCCCCC	검색 벌집성단 나이 찾아줘
+age	EEECCCCCCCCC	타이산 나이를 탐색해줘
+age	EEEEECCCCCCCCCCCCCCCCCCC	케플러62 나이 WIKIPEDIA에서 알려줘
+age	CCCCCEEEEEECCCCCCC	검색으로 심우주통신망 나이는 뭐야
+age	CCCCCCCEEECCCCCCCCCCC	WIKI에서 전민제 나이가 몇인지 찾아
+age	EEEEEEECCCCCCCCCCCCCCCCCC	세인트헬렌 산의 나이 WIKI 사전에 검색해봐
+age	EEEEEEEEEECCCCCCC	조제프루이 라그랑주 나이 찾아줘
+age	CCCCCCCCCCCCCEEEEEEECCCCCCC	위키피디아백과사전 검색 글리제 721 나이 얼만지
+age	CCCCCCCEEEEECCCCCCCCCCC	WIKI에서 에트나 산 나이는 몇인지 찾아
+age	CCCEEEEECCCCCCCCCCCCC	검색 사달타게르의 나이는 어떻게 되는지
+age	EEECCCCCCCCCCCCCCCC	부그로 나이 WIKI사전으로 어떤지
+age	EEECCCCCCCCCC	오성열이 나이를 검색해줘
+age	EEEECCCCCCCC	황산 산 나이 검색해줘
+age	CCCCCEEECCCCCCCC	에이핑크 한수산 나이 검색해줘
+age	CCCCCCCCCCCEEEEEEEEEEEECCCCCC	위키 백과 검색으로 프랭클린 D. 루스벨트 나이는 뭐
+age	EEEEEEEECCCCCCCCC	메갈린에키컨워크의 나이 검색해봐
+age	EEEEEECCCCCCC	WASP10 나이는 뭐야
+age	EECCCCCCCCCC	야킨이 나이를 탐색해줘
+age	CCCCCCCCCCEEEEEEECCCCCCCC	WIKI 사전에서 디오게네스 산 나이 찾아주라
+age	CCCCCCCCCEEECCCCCCCCC	위키백과사전에서 용수철이 나이는 몇이야
+age	EEEEEEEEEECCCCCCC	덴마크 왕자 빈센트 나이 알려줘
+age	EEEEECCC	포말하우트 나이
+age	EEECCCCCCCCC	알발리의 나이가 어떤지
+age	EEEEEEEECCCCCCCC	양 웬리의 기함 나이를 찾아봐
+age	EEEEEECCCCCCC	알렉스 루소 나이 탐색해
+age	EEECCCCCCCCCCCCCCC	자이온의 나이 WIKIPEDIA에
+age	EEECCCCCCC	김원수 나이 알려줘
+age	EEEEEEEEECCCCC	NNN뉴스리얼타임 나이 뭐
+age	CCCCCCCCEEEEEECCCCCCCC	위키백과사전에 파리쿠틴 산의 나이 알아봐
+age	EEEEEEECCCCCCCCC	키무라 카에레의 나이를 찾아봐
+age	EEEECCCCCCC	동악태산 나이 찾아봐
+age	EEEEEEEECCCCCCCCC	작은곰자리 알파 나이 알고 싶어
+age	EEEEECCCCCCCCCCCC	WR 25의 나이 얼마나 되는지
+age	EEEEEEECCCCCCCCCCCCCCCCCCCCCC	네리아 카마초의 나이를 WIKIPEDIA사전으로 찾기
+age	EEECCCCCCCCCCCCCCCCCC	스네오 나이 위키피디아백과사전으로 찾아
+age	CCCCCCCCCEEEEECCCCCCCCCCCCC	WIKI백과사전 구라타 슈 나이가 몇인지 알려주라
+age	EEEEEEEECCCCCCC	마일즈 프라우어의 나이 찾아
+age	EEEEEECCCCCCCCCCCCCCCCCC	WASP19 나이를 위키피디아사전으로 찾아봐
+age	CCCCCCCCCCEEEEEEECCCCCCCCCCCCC	WIKIPEDIA 노비 노비스케 나이가 몇인지 알려주라
+age	CCCEEEEEEEECCCCCCC	검색 HD 12039 나이 얼마야
+age	EEECCCCCCCCCCCC	송아리의 나이 WIKI 뭐야
+age	EECCCCCCC	황산 나이 알려줘
+age	CCCCEEEEEEEEECCCCCCCCC	위키로 레오나르도 우조아의 나이가 얼만지
+age	EEEEEECCCCCCCC	로이 아커프 나이는 어떤지
+age	EEEEEECCCCCCCCCCC	쿠도 신이치의 나이가 몇 살이야
+age	CCCCCCCCCCCCCCEEEEECCCCCC	WIKI PEDIA 검색 아카기 안 나이 뭐야
+age	EEEEEEEECCCCCCCC	HD 38282의 나이 탐색해
+age	CCCCCCCCCEEEEEECCCCCCCCCCCC	위키백과사전에서 푸르네스 봉 나이는 몇인지 검색해
+age	EEEEEEEECCCCCCC	마차부자리 알파 나이 알려줘
+age	CCCCCCCCCCCCEEEEEECCCCCCCCCCC	WIKIPEDIA에서 사노 이즈미 나이가 몇인지 찾아
+age	CCCCCCCCCCEECCCCCCCCCCCC	WIKI 검색으로 직녀 나이가 얼마나 되는지
+age	CCCCEEECCCCC	위키에 알렉스 나이 뭐
+age	EEEEEEECCCCCCCC	소노자키 시온은 나이 찾아봐
+age	EEEEEEEEECCCCCCC	후지와라노미치마사의 나이 뭔지
+age	EEEEECCCCCCCCCCCCC	탐보라 산 나이가 몇인지 찾아줘라
+age	EEEEEECCCCCCCCC	캐리 엘위스의 나이가 어떤지
+area	CCCCCCCCCCEEEEECCCCCCC	위키사전 검색으로 서울대목구 면적을 찾아
+area	EEEECCCCCCCCCCCCCCCCCCCCC	평화광장 면적이 얼마인지 WIKI백과에서 검색
+area	EEEEEEECCCCCCCCCCCCCCCCCCC	경기도 이천시 면적을 WIKI백과사전에서 알아봐
+area	EEEEEEEEECCCCCCCCCCC	히우 데 자네이루 면적이 얼만지 뭔지
+area	EEECCCCCCCCCCCCCCCCCCCCCC	흡곡군은 면적이 대략 어느 정도인지 알아 검색
+area	CCCEEEEEEEEECCCCCCCC	검색 낙산사 화재 사고의 크기 탐색해
+area	EEEEECCCCCCCCCCCCCCC	오리온자리 넓이는 위키사전으로 얼만지
+area	EEEEEEEEEEEEEECCCCCC	제주특별자치도지방노동위원회 면적 검색
+area	EEECCCCCCCCCCCCCCCCCCCCCCC	장성현의 면적은 대충 WIKI백과로 얼마 쯤이야
+area	CCCCCCCEEECCCCCCCCC	WIKI에서 실상사의 크기를 알려줘
+area	EEEEEECCCCCCCCCCCCCCCCCCCCCC	아이즈미 정 면적 WIKIPEDIA백과사전에서 검색
+area	CCCEEEEECCCCCCCCC	가서 익산 쌍릉이 크기는 궁금해
+area	EEECCCCCCCCCCCCCCCCCCCCCCCCCCC	고란사 면적이 얼마인지 WIKIPEDIA사전에서 찾아줘
+area	CCCCCCCCCCCCEEEEECCCCCCCCCCCC	WIKI백과사전 검색 영국드라마 면적이 얼만지가 뭐지
+area	CCCCCCEEECCCCCCCCCCCCCC	WIKI로 송광사의 크기가 대충 얼마나 돼
+area	EEEEEECCCCCCC	부산 금정구 면적 찾아줘
+area	CCCCCCCCCEEEECCCCCCCC	WIKI사전으로 무녕왕릉의 넓이 얼만지
+area	CCCCCCCEEEEEECCCCCCCCCCCC	위키사전에서 순천 송광사는 크기는 얼마 정도야
+area	EEECCCCCCCCCCCCCCCCCCCCCCCCCC	오로군은 면적은 대충 위키피디아백과사전에 얼마 쯤이야
+area	CCCCCCCCCCCEEEEEEEECCC	WIKI 백과 검색 에리다누스 자리 크기
+area	EEEEECCCCCCCCCCCCCCC	부산진지성의 면적은 대충 얼마 쯤이야
+area	CCCCCCCCCCEEEEEEEECCCCCCC	WIKI 사전으로 실베스트레바렐라의 넓이 뭔지
+area	CCCCCCCCCCCCEEEEEEECCCCCCC	WIKI PEDIA에 리오드쟈네이로 크기 찾아봐
+area	EEEEECCCCCCCCCCC	오리온자리 넓이 위키에서 뭔지
+area	EEECCCCCCCCCCCCCCCCCC	블랑슈의 면적은 대략 얼마 쯤인지 알아
+area	EEEEEEEEEEEECCCCCCCCCCCCCCCCC	구례 외산리 하연유적비 크기를 WIKI 백과 검색해라
+area	EEEEECCCCCCCCC	바다뱀자리 넓이를 검색해라
+area	CCCCCCCCCCCCEECCCCCCCCCCC	WIKI사전 검색으로 차렷의 면적이 어떻게 돼
+area	CCCEEECCCCCCCCC	검색 홍주목의 면적을 탐색해
+area	EEEEEECCCCCCCCCCCCCCCCCCCCCC	승진 훈련장 면적이 얼만지를 위키백과사전에서 알려줘
+area	CCCEEEECCCCCCCCCCCCC	검색 케르키라의 면적이 얼만지를 검색
+area	EEECCCCCCCCCCCCCC	불국사의 면적이 얼마인지는 뭐야
+area	EEEEECCCCCCCCCCCCCC	히드라자리 넓이를 백과사전에 알아봐
+area	EEECCCCCCCCCCCCCCC	고풍군 면적이 얼마인지 알고 싶어
+area	EEEEEECCCCCCC	부산 금정구 면적 찾아줘
+area	EEEEEEEEEEEEEEECCCCCC	2005년 낙산사 화재 사고 크기가 뭐
+area	CCCCCCCCCCEEEEECCCCCCCCCC	WIKI사전 검색 부흥중학교의 면적 좀 알려줘
+area	EEEEEEEECCCCCCC	렛츠런파크 제주 면적 찾아봐
+area	CCCCCEEEECCCCCCCC	검색으로 배니시드 면적 탐색해줘
+area	EEEEEECCCCCC	서울시청광장 크기 검색
+area	CCCCCCCCEEEEECCCCCC	WIKI백과에 김일성광장은 크기 좀
+area	EEEEEEEEEEECCCCCCCCCCCCC	서울광장의 스케이트장이 크기가 얼마 정도였지
+area	EEEEECCCCCCCCCCCCCCCCCCC	연유공급소 크기는 대충 얼마 정도 되는 거야
+area	CCCCCCCCCEEECCCC	WIKI사전으로 유산동 면적은
+area	CCCCCCCCCCCCEEEEEEEECCCCCCC	위키피디아백과사전에서 가톨릭 전주교구 넓이 알아봐
+area	CCCCCCCCEEEEECCCCCC	WIKI백과에 김일성광장은 크기 좀
+area	EEEEEECCCCCCC	시다드 벨랴의 크기 찾기
+area	EEEEEECCCCCCCCCCCCCC	나고야 교구 면적이 얼마인지를 검색해
+area	CCCEEEEEECCCCCCCCCCCCCCC	가서 랭스 대교구 면적 크기는 어느 정도 돼
+area	EEECCCCCCCCCCCCCCCC	애버딘의 땅 크기를 WIKI 찾아줘
+area	EEECCCCCCCCCCCCCCC	분당구 면적을 백과사전에 검색해줘
+area	EECCCCCCCCCCCC	황북 면적은 얼마나 되는지
+area	EEECCCCCCCCCCCCCCCC	삿보로가 면적은 어떻게 돼 위키백과
+area	CCCCCCCCEEECCCCCCCCCCCCC	WIKI백과로 한계사는 크기는 얼마 정도였지
+area	EEEEEEEECCCCCCCC	천주교 대전교구 넓이 검색해줘
+area	CCCCCEEEECCCCCCCCCCCCC	검색으로 자기조절은 크기가 어느 정도더라
+area	EEEEEECCCCCCCCCCC	남산르네상스 면적이 얼만지 검색
+area	CCCCCCCCCCCEEECCCCCCCCC	WIKIPEDIA에 피엔차가 넓이를 알려줘
+area	CCCCCCCCCCCCEEECCCCCCCCCCC	WIKI백과 들어가서 기장현이 면적은 어느 정도
+area	CCCCCCCCCEEECCCCCCCC	WIKI 백과에 정주시 크기는 얼마야
+area	CCCCCCCCCCCCEEEEEEEECCCCCCCCCC	WIKI PEDIA야 천주교 홍콩교구 면적이 어느정도야
+area	CCCCCEEEEECCCCCCCCCCCCCCCCCC	들어가서 서울 광장의 면적이 몇 킬로 미터 제곱이야
+area	EEEEEECCCCCCCCCCCCCCC	경주 불국사의 면적이 얼마인지를 찾아봐
+area	EEEEEEEECCCCCCCCCCCCCCCCCCCCCC	노량진 수산시장의 면적이 얼만지가 위키 백과에서 어떤지
+area	EEEEEEECCCCCCCCCCCCCCCCCCC	신흥사 보제루는 크기는 위키피디아사전 얼마나 돼
+area	CCCCCCCCCCCCCCEEEECCCCCCCCCCC	WIKIPEDIA백과사전 제9군단의 크기를 알고 싶어
+area	EEEEECCCCCCCCCCCCC	히드라자리의 크기가 어느 정도더라
+area	EEEEECCCCCC	버키해리스 크기 검색
+area	CCCCCCCCCCEEEEEECCCCCCCCC	WIKI 들어가서 경주 불국사의 면적이 얼마지
+area	EEECCCCCCCCCCCCCCCCC	외송리 면적이 얼마인지 어떻게 되는지
+area	EEEEEEEECCCCCCCC	에리다누스 자리의 크기를 검색
+area	CCCCCCCCCCCCEEEEEECCCCCCCCCC	WIKI사전백과 검색 중국농구협회의 땅 크기를 검색
+area	CCCCCCCEEEEECCCCCCCCCCCCCCC	위키사전에서 서울강서구는 크기는 어느 정도로 컸어
+area	CCCCCCCCCCCCCCCEEEEEECCCCCCCC	WIKIPEDIA 검색으로 국채보상공원 면적을 찾아줘
+area	EEEEEEEECCCCCCCCCCCCC	태안해안국립공원의 면적이 얼만지 어떤지
+area	EEEEEEEECCCCCCCCCCCCCCCCCCCC	타이루거국가공원 면적이 얼마인지 위키피디아 검색해라
+area	EEEEEEEEEEEECCCCCCCCC	로마 가톨릭 교토 교구의 크기는 얼마야
+area	CCCCCEEEEEEEEEEEECCCCCCCCCCCC	검색으로 구 인천일본18은행지점이 면적 얼마나 되는지
+area	EEECCCCCCCCCCCCCCCCCCCCCCCCCCC	주례리는 크기는 WIKI 사전에서 얼마나 하는지 알려줘
+area	EEEEEECCCCCC	사가잉 관구 면적 뭐야
+area	EEEECCCCCCCCCCCCCCC	대전교구 면적이 얼마인지 WIKI로
+area	CCCCCCCCCCCEEEEEECCCCCCCC	WIKI 백과 검색 오리온 자리 크기를 찾아봐
+area	EEECCCCCCCCCCCCCCCCCC	불국사는 크기가 얼마 정도인지 찾아주라
+area	EEEEEEEEEECCCCCCCCCCCCC	두륜산 대흥사 일원의 땅 크기 좀 알려줄래
+area	CCCCCEEEEEEEECCCCCCCCCCC	들어가서 송화과수농장지구의 면적이 어떻게 돼
+area	EEEECCCCCCC	시민의숲의 넓이 뭐야
+area	EEEEEEEEECCCCCCCCCCCCCCCC	가톨릭 광주대교구의 면적이 얼마인지를 검색해봐
+area	EEECCCCCC	봉산군 면적이 뭐
+area	EEECCCCCCCCCCCCCC	광주시의 면적이 얼마인지 검색해
+area	EEEEEEEEECCCCCCCCCCC	이화 개국공신녹권 면적이 얼만지 검색
+area	EEECCCCCCCCC	영주읍 크기를 찾아주라
+area	EEEEEEECCCCCCCCCCCCCC	히우드자네이루 면적이 대충 어느 정도지
+area	EEEEEEEECCCCCCC	에리다누스강자리 크기 찾아줘
+area	EEEECCCCCCCCCCCCCC	용골자리 넓이 WIKI사전에 뭔지
+area	EECCCCCCCCCCCC	수안 면적 한번 찾아봐줄래
+area	CCCCCCCCCEEEEECCCCCCCCCCCCC	WIKI 백과에 부산대목구 면적이 얼만지 검색해봐
+area	EEEEECCCCCCCCCCCCCCCCCCCC	노안중학교가 크기는 위키피디아로 얼마 정도였지
+area	EEECCCCCCCCCCCCCCC	호계동이 면적은 어느 정도 인가요
+area	CCCEEECCCCCCCCCCCCCCC	검색 이범관 면적이 얼마인지를 검색해라
+area	CCCCCCCCCEEEECCCCCCCCCC	위키피디아사전에 용산기지의 면적이 얼만지를
+belong_to	CCCCCCCCCCCCEEEEEEEEECCCCCCCC	WIKI PEDIA에 미하엘 크론 델리의 소속 검색해
+belong_to	EEECCCCCCCCCCCCCCCCCCCC	유승화가 소속되어 있는 회사 이름이 뭐더라
+belong_to	EEEEEEEEEEEECCCCCCCCCCCCCCCC	제14SS무장척탄병사단의 소속을 WIKI로 탐색해줘
+belong_to	CCCCCCCCCCCCCCEEEEEEEECCCCCCC	WIKIPEDIA사전으로 대한민국 2함대 소속 어디지
+belong_to	CCCCCCCCEEECCCCCCCCCCCC	위키피디아사전 둥간족의 소속사 좀 찾아주셈
+belong_to	CCCCEEEEEEEEECCCCCCCCC	위키야 노선택과 소울소스는 소속사 이름을
+belong_to	EEEEEEEEEEEEECCCCCCC	대한민국 5공중기동비행단의 소속 뭐지
+belong_to	EECCCCCCCCCCCCCCCCCCCCCC	유민 소속사는 어딘지 검색 좀 해줄 수 있어
+belong_to	EEEEEEEEECCCCCCCCCCCCCCCCCC	이매뉴얼 에메니케가 속해있는 소속사 이름이 필요해
+belong_to	CCCCCCEEEEEEEEEEECCCCCCCCC	위키 백과 35 방공 포병 여단이 어느 소속사지
+belong_to	EEECCCCCCCCCC	윤종섭 소속 구단을 찾아
+belong_to	EEEECCCCCCCCCCCCCC	저우쭤런 소속 팀 WIKI백과사전
+belong_to	CCCCCCEEEEEECCCCCCCCCCC	위키사전에 레다 투카르의 소속 팀을 검색해
+belong_to	EEEEEEEEEEEECCCCCCCCCCC	대한민국 공군교육사령부 소속이 어딘지 검색
+belong_to	EEEEEEECCCCCCCCC	브랜 뉴 데이가 소속 찾아주라
+belong_to	EEEEEEECCCCCCCCCC	스기사키 하나는 소속 알고 싶어
+belong_to	CCCCCCCCCCCCEEEEEECCCCCCCCC	위키피디아백과사전에서 자 텐푸타즈 소속 팀 알려줘
+belong_to	EEEEEEECCCCCCCCC	모닝구 무스메가 어디 소속사냐
+belong_to	EEEEEEECCCCCCCCC	아일랜드독립당 현 소속 찾아줘
+belong_to	EEEEEEEEEECCCCCCCCCCC	미국 육군 가스학교가 소속된 데가 있어
+belong_to	CCCCCEECCCCCCCCCCCCC	들어가서 9군은 소속된 구단이 어디야
+belong_to	CCCCCCCCCCCEEEEEECCCCCCCC	WIKI백과사전에서 MYNAME 소속사 알려줘
+belong_to	CCCCCEEEEEECCCCCCCCCC	들어가서 제1기갑사단의 소속사가 어디야
+belong_to	EEEEEEEEEECCCCCCCCCCCCCCCC	제14SS척탄병사단의 소속사가 어딘지 좀 찾아줘
+belong_to	CCCCCCCCCEECCCCCCCCCC	WIKI백과에서 밀크 소속 팀이 어딘가
+belong_to	EEEECCCCCCCCCCCCCCCCCC	웨이융리는 소속 WIKI에 어디서 했는지
+belong_to	CCCEEEEEEECCCCCCCCCCC	검색 파벨 체렌코프 소속사 이름이 뭐야
+belong_to	EEEEEECCCCCCCCCC	잘만 샤자르 소속 구단 찾아봐
+belong_to	CCCCCCCCEEEEECCCCCCCCC	위키백과 검색 마츠 순딘의 소속사 알아봐
+belong_to	CCCEEEEEEEEEECCCCCCCCCCCCCC	검색 ALICE NINE는 지금 어느 팀 소속이야
+belong_to	CCCEEECCCCCCCCCCCC	검색 ZEA의 소속사 좀 찾아주셈
+belong_to	EEEEECCCCCCCCCCCCCCC	D.C.W의 소속이 위키피디아로 뭐지
+belong_to	EEEEEEEEEECCCCCCCC	실비오 베를루스코니 소속사가 뭔지
+belong_to	EEEECCCCCCCCCCCCC	보이스퍼 소속 팀이 어딘지 검색
+belong_to	CCCCCCCEECCCCCCCCCCCCC	위키피디아로 뷰투 소속사가 어디서 했는지
+belong_to	EEEEEEEEEEEECCCCCCCCCCCCCCCCCC	UDTSEALEOD부대 소속을 WIKI 백과에서 검색해
+belong_to	CCCCCEEEEEEECCCCCCCCCC	검색으로 체스케이스펜서의 소속사가 어디지
+belong_to	EEEECCCCCCCCCCCCCCCCCC	웨이융리는 소속 WIKI에 어디서 했는지
+belong_to	CCCCCEEEECCCCCCCCCCCCCCCCCCC	들어가서 아오보즈 소속사 이름이 뭔지 혹시 너 아심
+belong_to	CCCCCEEEEEEEEEEEEEECCCCCCCC	검색으로 블라디미르 보스코보이니코프 소속사 탐색해
+belong_to	EEEEECCCCCCCCCC	7WEST의 소속 팀 찾아봐
+belong_to	EEECCCCCCCCCC	김석기 소속 구단 찾아줘
+belong_to	CCCCCEEECCCCCCCCCCCCCCCC	들어가서 씨엘씨가 어느 소속사 가수인지 알아
+belong_to	EECCCCCCCCCCCCCCCCCCCCCC	랩몬 소속이 어디인지 WIKIPEDIA 검색
+belong_to	EEECCCCCCCCCCCC	김도경의 소속 연구소는 뭔지
+belong_to	CCCCCCCCCCCEEEECCCCCCCCCCC	WIKI PEDIA 지지리바의 소속 연구소 뭔지
+belong_to	CCCCCCCCCCCCEEEECCCCC	위키 피디아 검색으로 제8군단의 소속을
+belong_to	CCCCCCCCCEEECCCCCCCCC	WIKI 백과로 전인배 소속을 탐색해줘
+belong_to	CCCCCCCCEEEEEEEECCCCCCCCC	WIKI 검색 미나토자키 사나 소속 구단 뭐지
+belong_to	CCCCCEEEEEEECCCCCCCCCC	검색으로 알 코와리즈미의 소속 연구소 뭐
+belong_to	CCCCCEEECCCCCCCCCC	검색으로 김무규의 소속 팀 찾아봐
+belong_to	EEEEEECCCCCCCCCCCCCCC	제5해병여단이 있는 소속사 좀 찾아볼래
+belong_to	EEEEEEEEECCCCCCCCCC	국방부 근무지원단 소속사가 어디더라
+belong_to	EEEEEEEECCCCCCCCCCCCCCC	브루노 수쿨리니 소속 구단은 어떻게 되는지
+belong_to	EEEEECCCCCCCCCCCCCC	990년대는 어느 소속사 출신입니까
+belong_to	EEEEECCCCCCCCC	슈퍼주니어가 소속사 어디야
+belong_to	EEECCCCCCCCCCCCCCCCCC	제1군이 들어가있는 소속사 이름이 뭘까
+belong_to	EEEEECCCCCCCCCCCCCCCC	가비엔제이 소속을 WIKI백과로 탐색해
+belong_to	EECCCCCCCCCCCCCCCCCCCCC	키오가 속해있는 소속사 이름이 궁금해 검색
+belong_to	CCCEEECCCCCCCCCCCC	검색 ZEA의 소속사 좀 찾아주셈
+belong_to	EEEEEEEECCCCCCCCC	이고르 모로조프 소속사를 찾아봐
+belong_to	CCCCCCEEEEECCCCCCCCCCC	위키 백과 에디 존슨 소속 팀을 찾아주라
+belong_to	CCCCCEEECCCCCCC	검색으로 신정근의 소속 검색
+belong_to	EEEEEEEEEEECCCCCCCCC	대한민국 육군정보학교 소속을 찾아주라
+belong_to	CCCCCCCEEEEEECCCCCCCCCCCC	위키 백과로 다리오 콩카가 어느 회사 소속이니
+belong_to	EEECCCCCCCCCCC	허준호의 소속을 알고 싶어
+belong_to	EEEECCCCCCCC	레이디스 소속이 어딘지
+belong_to	EEEEEEEECCCCCCCC	이스메트 이노누의 소속을 찾기
+belong_to	EEECCCCCCCC	투앤비의 소속사 검색
+belong_to	EEEEEEEEEEEEEEEEEECCCCCCCC	CLAZZIQUAI PROJECT 소속 팀 뭔지
+belong_to	CCCCCCCCEECCCCCCCCCCCC	WIKI백과에 슈쥬의 소속사 좀 찾아주셈
+belong_to	CCCCCCCCCCCCEEEEEEECCCCCCC	WIKIPEDIA에서 아프리카 군단 소속 알려줘
+belong_to	CCCCCCEEEEEEECCCCCCCCC	WIKI에 플레디스 걸스의 소속사 찾아줘
+belong_to	EEEEEECCCCCCCCCCCCCCCCC	더 타이거스 현 소속 WIKI 사전 찾아줘
+belong_to	EECCCCCCCCCCCCCCCCCCCCCCC	사잔 소속은 WIKIPEDIA백과사전에서 뭐야
+belong_to	CCCCCEEEEEEEEEEEEEEEEEECCCCCC	백과사전 4 SS경찰기갑척탄병사단 폴리자이 소속 검색
+belong_to	EEEEEEECCCCCCCCCCC	제주방어사령부 소속은 어딘지 검색
+belong_to	CCCCCCCCCCEEEEEEEECCCCCCCCC	위키피디아백과사전 구다라노가나와리 소속 팀 알려줘
+belong_to	EEEEEEECCCCCCCCCCCCCCCCCC	콜게이트대학교 소속을 WIKI백과사전으로 찾기
+belong_to	EECCCCCCCCCC	앰프의 소속사가 어디야
+belong_to	EEEEEECCCCCCCCC	모드플랜더스 소속사가 어디냐
+belong_to	EEEEEEEECCCCCCCCCCCCCC	제3SS기갑사단의 소속 위키 백과 어디지
+belong_to	CCCCCCCCCCCEEEEEEEECCCCCCCCCCC	WIKI PEDIA 피테르 오뎀윙기 소속사 좀 알려줄래
+belong_to	EEEECCCCCCCCCCCCCCCCCCCC	18크럭이 어느 회사 소속인지 검색해봐 검색
+belong_to	CCCCCEEEEEEECCCCCCCCCCCCC	검색으로 아드리엔 실바의 소속 연구소는 어딘지
+belong_to	CCCCCCCCCCCCCCEEEECCCCCCCCCC	WIKI사전백과 검색으로 DLOW의 소속을 탐색해줘
+belong_to	EEECCCCCCCCCCCCCCCCCC	우주리 소속사는 WIKI 백과에 어디야
+belong_to	CCCCCCCCCCEEEEEECCCCCCCC	WIKI 피디아에 다케우치 켄 소속 팀 뭔지
+belong_to	EEEEEECCCCCCCCCCCCCCCCCCC	A JUNE는 소속되어 있는 회사 이름이 뭐냐
+belong_to	EEEEECCCCCCCCCCCCCCCCCCCC	시드사운드의 소속사를 WIKIPEDIA 탐색해
+belong_to	CCCCCCCCCEEEEEEEEEEECCCCCCC	WIKI백과에서 제2보병사단 공병여단 소속 알려줘
+belong_to	EEEEEEEEEECCCCCCCC	니콜라이 미하일로프 소속사 검색해
+belong_to	EEEEECCCCCCCCCCCCCC	990년대는 어느 소속사 출신입니까
+belong_to	EEECCCCCCCCCCCCCCCCCCCCCCCCC	최영일의 소속 구단을 WIKIPEDIA백과사전 찾아
+belong_to	EEEEEEEECCCCCCCCCCCCCCCCCCC	히라노 요시히사 소속 연구소를 위키 백과에 탐색해
+belong_to	EEEECCCCCCCCCCC	4TEN 소속사 좀 알려주라
+belong_to	EEEECCCCCCCCC	바나롭스 현 소속 찾아줘
+belong_to	EEEEEEECCCCCCCCCCCC	국제안보지원군이 어느 소속사임 검색
+belong_to	EEEECCCCCCCCCCC	솔루션스 소속사 좀 알려줄래
+belong_to	EEEEEEECCCCCCCCCCCCCCCCCCCCCCC	제페르손파르판은 소속 구단 WIKIPEDIA백과사전으로
+birth_date	EEEEEECCCCCCCCCCCCC	존 올트겔드 언제 태어났는지 검색해
+birth_date	CCCCCEEEEEEECCCCCCCCC	검색으로 007 시리즈의 출생일자 뭐야
+birth_date	CCCCCCCCCCEEEEEECCCCCCCCC	WIKI 검색으로 테리 보가드의 출생일자 뭐야
+birth_date	EEEEEEECCCCCCCCCCCCCCCCCCCCCCC	히라사와 유이의 생일 WIKI백과사전에서 어떻게 되는지
+birth_date	EEEEEEECCCCCCCCCCC	코부시 아비루의 출생일자를 탐색해
+birth_date	CCCCCCCCEEEEEECCCCCCCCCC	WIKI 백과 미니 마우스 생년월일은 어떤지
+birth_date	EEEEEECCCCCCCCCCCCCCC	마르코 루스 언제 출생했는지 알고 싶어
+birth_date	CCCCCCCCCCEECCCCCCCCC	WIKI백과사전에 짱아 출생일자를 찾아
+birth_date	EEEEEECCCCCCCCCCCCCC	이븐 사우드 언제 출생했는지는 어떤지
+birth_date	CCCEEEEEEEEEECCCCCCCCCCC	위키 바다의노래QUEEN의 출생일자를 찾아봐
+birth_date	EEEEECCCCCCCCCCCCCCCCC	링컨 윤스 생년월일이 WIKI백과사전으로
+birth_date	EEEEEEEECCCCCCCCCCCCCCCCCCC	아이리스애퍼타우의 생일은 위키피디아사전으로 어떤지
+birth_date	EEEEEECCCCCCCCCCC	신조 히나키의 출생일을 검색해라
+birth_date	CCCEEEEEEEECCCCCCCCCCCCCCCC	검색 항해왕자 엔리케의 언제 태어났는지를 검색해라
+birth_date	EEEEEEECCCCCCCCC	카잘 아가르왈 출생을 찾아주라
+birth_date	EEEEECCCCCCCCCCCCCCCCCCC	셸든 쿠퍼 출생일자가 WIKI 어떻게 되는지
+birth_date	CCCCCCEEECCCCCCCCCCCCCC	WIKI야 게임쇼는 언제 태어났는지 알려줘
+birth_date	EEECCCCCCCCCCCCC	이 황이 언제 태어났는지 알아
+birth_date	CCCCCCCEEEEEECCCCCCCCCCC	백과사전으로 데릭 홀랜드의 출생 날짜 탐색해
+birth_date	EEECCCCCCCCCCCCCCCC	김재현이 출생을 위키백과에서 찾아줘
+birth_date	EEEEEEEECCCCCCCCC	를르슈 람페르지 생일을 탐색해줘
+birth_date	EEEEEEECCCCCCCCCCCCCC	몽키 D 루피의 생년월일은 언제 했는지
+birth_date	CCCCCEEEEEECCCCCCCCCCCCCC	검색으로 키사키 에리의 언제 태어났는지 찾아줘
+birth_date	EEEEEEEECCCCCCCCC	코토부키 츠무기 출생을 검색해라
+birth_date	EEEEEECCCCCCCCC	노비 노비타의 생일 검색해봐
+birth_date	EEEEEEEEEECCCCCCC	돈키호테 도플라밍고의 생일 찾아
+birth_date	EEECCCCCCCCCC	공상희의 출생을 검색해라
+birth_date	CCCCCEEEEEECCCCCCCCC	검색으로 요시마타 료의 출생일이 뭔지
+birth_date	EEEEECCCCCCCCCCCCC	엠마 발레의 생일이 어떻게 되는지
+birth_date	EECCCCCCCCCCC	우솝의 생년월일 찾아주라
+birth_date	EEEEEEEECCCCCCCCCCCCCCCCCCC	로런 리 스미스 언제 출생했는지를 위키 알고 싶어
+birth_date	EEEEEEEECCCCCCCCCCC	설리반 스탭플턴 출생 날짜는 어떤지
+birth_date	EEEEEECCCCCCCCCCCCCCCCCC	DJ 드라마는 언제 태어났는지 알 수 있을까
+birth_date	EEEEEEEECCCCCCCCCCCCCCCCCC	에리카 살루마에 생일을 WIKIPEDIA사전에서
+birth_date	EEEEEECCCCCCCCCCCCCCCCC	카드 메라드 언제 출생했는지는 언제 했는지
+birth_date	EEEEECCCCCCCCCCCCCC	브렌던 웹 생일 위키 백과로 언제지
+birth_date	EEEEECCCCCCCCCCCCCCCCCCCCCC	알 보울리의 언제 태어났는지는 위키사전으로 어떤지
+birth_date	CCCCCCCEEEEECCCCCCCCCCCCCCC	위키피디아로 조지 마셜 언제 출생했는지를 검색해봐
+birth_date	EEEEEECCCCCCCCC	마티 펠드만의 생일이 언제야
+birth_date	CCCCCCCCCCCCCCEEECCCCCC	WIKIPEDIA백과에서 노진구 출생 검색
+birth_date	EEEEEEEECCCCCCCCCCCCCCCCCCC	셀라판 라마나단의 언제 출생했는지는 어떻게 되는지
+birth_date	EEEEEEEEECCCCCCCCC	바실리키 부지우카의 생일을 알아봐
+birth_date	EEEECCCCCCCCC	장쑤쑤닝 생년월일 알아봐
+birth_date	CCCCCCEEEEEEECCCCCCCCCCC	WIKI에 외메르 토프락의 출생일자를 알려줘
+birth_date	CCCCCCCEEEEEEEEECCCCCCCCCCCCC	위키피디아에 스폰지밥 네모바지는 언제 태어났는지 알아
+birth_date	CCCCCCEEEEEEEEEEECCCCCCCCCCCC	위키 백과 포트거스 D. 에이스의 출생일자를 탐색해줘
+birth_date	EEEEEEECCCCCCCCCCCCCCCCCC	우간다사향땃쥐 생년월일 WIKI사전에서 언제야
+birth_date	CCCCCEEECCCCCC	검색으로 만퉁퉁 출생은 뭐
+birth_date	EEEEECCCCCCCCCC	앨빈 로스 출생일자를 알려줘
+birth_date	EEEEEEECCCCCCCCCCCCC	린다 B. 벅 출생일자 WIKI백과로
+birth_date	EEEEEEECCCCCCCCCCC	롤로노아 조로 출생 날짜가 어떤지
+birth_date	CCCCCEEEEEEECCCCCCCC	검색으로 타나즈 이라니의 생일 탐색해
+birth_date	CCCCCCCEEEEEEECCCCCCCCCCCCCCC	위키 백과로 양웬리의 기함의 언제 태어났는지 검색해봐
+birth_date	EEECCCCCCCCCCCCCCCCCCCCCC	신이슬 언제 출생했는지 WIKI백과에 탐색해줘
+birth_date	CCCCCEEECCCCCC	검색으로 만퉁퉁 출생은 뭐
+birth_date	EEECCCCCCCC	노비타 생일이 언제야
+birth_date	EEEEEECCCCCCCCCCCCCCCC	아마네 미사 출생일은 WIKI 피디아 뭐
+birth_date	EEEEEEECCCCCCCCCCCCCCCCCC	알렉산더 레이가 언제 태어났는지 알 수 있을까
+birth_date	EEEEEEEECCCCCCCCCCC	레오나 하이데른 출생일자 알고 싶어
+birth_date	EEEEECCCCCCCCCCCCCCCC	카지 료지 언제 출생했는지 언제 했는지
+birth_date	EEECCCCCCCCCCCCCCC	봉미선이 언제 출생했는지 찾아주라
+birth_date	EEECCCCCCCCCCCCCCCCCCCC	서정원 생일 WIKI PEDIA에서 언제지
+birth_date	EECCCCCCCCCCCCCCCCCCCC	오작 출생 날짜 WIKI백과사전 탐색해줘
+birth_date	EEECCCCCCCCCCCCCCCCCC	만퉁퉁은 언제 태어났는지 알 수 있을까
+birth_date	EEEEEEEECCCCCCCCC	코토부키 츠무기 출생을 검색해라
+birth_date	CCCCCEEEEECCCCCCCC	위키에서 보아 행콕 생일 검색해봐
+birth_date	EEECCCCCCCCCCCCCCCCCCCCCC	샹크스의 생년월일을 WIKI 백과에서 검색해봐
+birth_date	EEEEEECCCCCCCCCCCCCC	다나카 고키의 언제 출생했는지가 뭐지
+birth_date	EEECCCCCCCCC	노애리 출생일자 찾아봐
+birth_date	EEECCCCCCCCCCCCC	민진웅 언제 출생했는지 언젠지
+birth_date	EEEEECCCCCCCCC	효숙예황후 출생일 탐색해줘
+birth_date	EEEEEEEECCCCCCCCCCCCCCCCCCC	크와트로 바지나 언제 태어났는지가 WIKI백과사전
+birth_date	EEECCCCCCCCCCC	정동남의 출생일자를 알려줘
+birth_date	EEEEEEEEECCCCCCCC	프로그래밍언어목록의 출생 언젠가
+birth_date	EEECCCCCCCCC	맹짱아 생일을 검색해라
+birth_date	EEEEEEEECCCCCCCCCCCCCCCCCC	크리스토퍼 워큰 출생 WIKIPEDIA로 언젠지
+birth_date	CCCEEEEEEEEEECCCCCCCCCCC	위키 바다의노래QUEEN의 출생일자를 찾아봐
+birth_date	EEEEEEECCCCCCCCCCCCC	린다 B. 벅 출생일자 WIKI백과로
+birth_date	EEEEEEEECCCCCCCCCC	데이미언 라이스가 출생일을 찾아줘
+birth_date	EEEEECCCCCCCCCCC	쉘던 쿠퍼 출생 날짜가 언제야
+birth_date	EEEEEECCCCCCCCCC	고다 타케시는 출생일은 언제야
+birth_date	EEEEEEECCCCCCCCCCCCCCCCCCCCCCC	다케우치 미유는 출생일이 WIKI 백과로 어떻게 되는지
+birth_date	EEEECCCCCCCCCCCC	차이잉원의 출생일자를 검색해줘
+birth_date	CCCCCCCCCEEEEEEEECCCC	WIKI 피디아 야마시타 케이고 생일은
+birth_date	EEECCCCCCCCCCCCCCCCCCCCCC	도라미의 출생 날짜를 WIKI백과사전으로 찾아
+birth_date	EEEEEEECCCCCCCCC	키리야 아오이 출생 날짜 검색
+birth_date	CCCCCCCCCCEECCCCCCCCC	WIKI백과사전에 짱아 출생일자를 찾아
+birth_date	CCCCCEEEEEECCCCCCCCCCC	검색으로 사토 미와코의 출생일자 찾아주라
+birth_date	CCCCCCEEECCCCCCCCC	위키피디아 윤태영의 생일은 언제야
+birth_date	CCCCCCCCCCCCCEEEEEECCCCCCCCC	WIKIPEDIA 검색 로리크 차나의 출생일 어떤지
+birth_date	CCCCCCCCCCEEEEECCCCCCCCCCCCC	WIKI백과사전에 포템킨전함 언제 태어났는지 찾아봐
+birth_date	CCCEEEEEECCCCCCCCC	검색 제이 개츠비 생년월일은 뭐지
+birth_date	EEECCCCCCCCCCCCCCC	아이언 생일 WIKI 사전에 뭔지
+birth_date	EEEEECCCCCCCCC	헬로 키티의 출생 검색해줘
+birth_date	EEEEEEEECCCCCCCCCCCCCCCCCCC	크와트로 바지나 언제 태어났는지가 WIKI백과사전
+birth_date	CCCCCCCCCCCCCCCEEECCCCCCC	WIKIPEDIA사전 검색 만퉁퉁의 생일 뭐지
+birth_date	EEECCCCCCCCCCCCCCCCCCCC	선생님 생년월일이 위키피디아사전으로 언젠지
+birth_date	EEEEEEEECCCCCCCCC	이매뉴얼 마타디의 출생을 찾아봐
+birth_date	EEECCCCCCCCCC	김창수가 출생 날짜 찾아
+birth_date	EEEEEECCCCCCCCCCCCCCCCCC	바오로 6세 출생일 WIKIPEDIA백과사전
+birth_place	CCCCCEEEEEEEEEEECCCCCCCCCCC	검색으로 타기그포워드패트리엇스의 태어난 곳 어떤지
+birth_place	CCCCCCCCEEECCCCCCCCCC	WIKI 가서 이성민의 출생지는 어디야
+birth_place	CCCCCCCCEECCCCCCCCCCCCCCCC	위키 피디아로 상디는 태어난 곳은 어딘지 궁금해
+birth_place	EEEEEEECCCCCCCCC	기무라 다쓰로 출생지를 찾아봐
+birth_place	EECCCCCCCCCCCCCCCCCCCCCCCC	셸미가 출생지 좀 위키피디아백과사전에서 알려줄래
+birth_place	EEEEEEEEEEEEEEECCCCCCCCCCCCC	남아메리카U17축구선수권대회는 태어난 곳 좀 말해줘
+birth_place	CCCCCEEEEEEEEEEECCCCCCCCCCC	들어가서 복자 인노첸시오 5세의 출생지가 어디에요
+birth_place	EEECCCCCCCCCC	객관성 출생 장소 찾아줘
+birth_place	CCCCCEEEEEECCCCCCCC	WIKI 타일러 라쉬 출생지는 뭐지
+birth_place	CCCCEEECCCCCCCCCCC	위키로 황우구의 출생지는 어디에요
+birth_place	EEECCCCCCCCCCCC	팔파틴은 태어난 곳이 어디지
+birth_place	EEEEEECCCCCCCCCCCCC	무로이 신지의 출생 장소 알고 싶어
+birth_place	CCCCCCCCCCCCEEECCCCCCC	WIKIPEDIA에서 노덕술 출생지 찾아
+birth_place	CCCCCCCCCCEEECCCCCCCCCCCCC	위키백과사전 가서 가진동은 태어난 곳 좀 말해봐
+birth_place	EEEEEEEEEEEECCCCCCCCCCC	도라에몽난모모타로의뭐지의 출생 장소 어딘가
+birth_place	CCCCCCCCCCCCCEEECCCCCCCC	위키피디아백과사전 검색 진미시의 고향 찾아봐
+birth_place	CCCCCCCCCCCCEEEEEEECCCCCCCCCCC	WIKIPEDIA에서 베로니카 로지의 출생 장소 탐색해
+birth_place	CCCCCCCCCCEEEEEECCCCCCCCCCC	WIKI백과사전에 브렛 맥켄지의 출생지를 검색해라
+birth_place	EEEECCCCCCCCCCCCCCCCCC	신혜왕후가 태어난 곳이 WIKI에서 어디
+birth_place	EECCCCCCCCC	오딘의 고향은 어디야
+birth_place	EEEEEECCCCCCCCCCC	헨리 듀커드의 태어난 곳을 찾아
+birth_place	CCCEEECCCCCCCCC	검색 바이퍼의 태어난 곳 뭐
+birth_place	EEEEEEEEEECCCCCCCCC	성 도미니코 사비오 출신지는 어딘가
+birth_place	EECCCCCCCCCCCCCCC	핀관은 태어난 곳은 어딘데 검색
+birth_place	EEECCCCCCCCCCCC	유우익은 태어난 곳을 알려줘
+birth_place	CCCCCCEEEEEEEECCCCCCCCCCCCCC	위키 검색 가야마 미쓰로오가 태어난 곳은 어디인가요
+birth_place	EEEECCCCCCCCCCCCCCC	철혈재상의 고향을 WIKI 검색해라
+birth_place	CCCCCCCCCCEEEECCCCCCCCC	WIKIPEDIA 성길사한의 출신지가 뭐야
+birth_place	CCCCCCCCEEECCCCCCCCCCCCC	WIKI 검색 마리오는 태어난 곳을 찾아주라
+birth_place	CCCEEEEEEEEEECCCCCCCCCC	검색 크리스티안 에이크만의 출생지는 어디임
+birth_place	EEEEECCCCCCCCCCCC	코발트72는 태어난 곳이 어디야
+birth_place	CCCCCCCCEEEEEEECCCCCCCCCCC	WIKI백과로 응오 딘 지엠의 태어난 곳을 검색
+birth_place	CCCCCEECCCCCCCCCCC	검색으로 공승 출생 장소를 찾아봐
+birth_place	CCCCCCCEEEEEEEECCCCCCC	위키피디아로 마시타 마사요시 출생지 뭔지
+birth_place	EEEEEEEEEEECCCCCCCCCCCCCCCCC	1996년고성산불사고의 고향 WIKIPEDIA에 뭐
+birth_place	CCCCCCCCCCCCEEECCCCCCCCC	위키 피디아 검색으로 김민호 출생지를 탐색해
+birth_place	EEEEEECCCCCCCCCCCC	츠키노우사기는 출생지를 알고 싶어
+birth_place	CCCCCCCCEEEEEEEEEECCCCCCCCCCCC	위키백과 가서 웨이드 윈스턴 윌슨은 태어난 곳을 알려줘
+birth_place	EEECCCCCCCCC	조인철의 태어난 곳 뭐
+birth_place	CCCCCCCCCEEEEEEECCCCCCCCCCCCC	WIKI 백과에 기시다 쇼헤이의 태어난 곳을 검색해라
+birth_place	CCCCCCCCEEEEEEECCCCCCCCCCCC	위키 피디아에 츠츠미 신이치가 출생 장소를 탐색해
+birth_place	CCCCCCCEEEEEECCCCCCCCCCCCCC	WIKI에서 스티븐 리드는 태어난 곳에 대해 알아
+birth_place	CCCCCCCCCCEEECCCCCCCCCCC	WIKI백과 검색 티찰라의 출생 장소 어떤지
+birth_place	EEEEEECCCCCCCCCC	K.D. 랭의 출생지가 어떤지
+birth_place	EEEEECCCCCCCCCC	셸던 쿠퍼 태어난 곳 검색해
+birth_place	CCCCCEEEEEEEEEECCCCCCCCCCCCC	검색으로 알리레자 자한바크슈 출생지 한 번 찾아주라
+birth_place	CCCCCCCCCCEEEEEEEECCCCCCCCC	위키백과 검색으로 몽키 D. 루피 출생지 탐색해줘
+birth_place	CCCCCCCCCCCCCCCEEEEECCCCCCCCC	WIKIPEDIA 검색으로 스카이OS의 출생지 어디지
+birth_place	EEEEEEEECCCCCCCCCCCC	다케나카다카시게 출생 장소를 검색해라
+birth_place	CCCCCCCCCCCCCEEECCCCCCCCCCCC	위키피디아사전 검색으로 최운혁의 출생지 좀 알려주라
+birth_place	EEECCCCCCCCCCCC	서홍석의 출생 장소를 찾아줘
+birth_place	CCCCCCEEEEEEEEECCCCCCCCCC	위키사전에 호세 미겔 쿠베로는 태어난 곳 알아
+birth_place	EEEEEEECCCCCCCCCCCCCCCCC	오비완 케노비의 출생 장소 위키피디아사전에서
+birth_place	CCCCCCCCCCCEEEECCCCCCCCCCCCCC	위키피디아 들어가서 닥터 둠이 태어난 곳은 알고 싶어
+birth_place	EEECCCCCCCCC	장서원 출생지는 어디지
+birth_place	EEEEEEEEEEEECCCCCCCCCCCC	안드레스 데 우르다네타가 태어난 곳은 어디야
+birth_place	EEEEEEECCCCCCCCCCC	셀리아 웨스턴 출신지역이 어디라고
+birth_place	EEEEECCCCCCCC	다스베이더 고향은 어떤지
+birth_place	EEEEECCCCCCCCCCCC	쉘던 쿠퍼의 출생 장소는 어디야
+birth_place	CCCCCCEEEEECCCCCCCCCCCCCCCCCC	백과사전아 블랙 위도가 태어난 곳을 알면 좀 가르쳐줘
+birth_place	EEEEEEECCCCCCCCCC	조니와이즈뮬러의 출생지는 어디심
+birth_place	EEEEEEECCCCCCCCCCCCC	가네이 다이키는 태어난 곳을 알고싶어
+birth_place	EEEEEECCCCCCCCCCC	로렌스 레식 태어난 곳 검색해봐
+birth_place	EEEEEECCCCCCCCCCCCCCCCC	셰어 로이드가 태어난 곳 좀 찾아주셈 검색
+birth_place	EEEEEEEECCCCCCCCCCCCCC	오스만튀르크제국 출신지 위키사전에서 찾기
+birth_place	EEEEEEECCCCCCCCC	롤로노아 조로의 출생지 어떤지
+birth_place	EEEEEEECCCCCCCCCCCCCCC	케이시 스미스 출생지 좀 가르쳐주라 검색
+birth_place	CCCCCEECCCCCCCCCCCCCCC	검색으로 나미가 태어난 곳 좀 알려주겠니
+birth_place	CCCEECCCCCCCCCCC	가서 심영의 출생지 좀 알려줘
+birth_place	EEEEEEECCCCCCCCCC	토모나가 미오의 출신지가 어떤지
+birth_place	EECCCCCCCCC	버키 출생 장소 뭔지
+birth_place	CCCCCCCCCCCCEEEECCCCCCCCCCC	WIKIPEDIA사전 맷 머독의 출생지 좀 알려줘
+birth_place	EEEEEEECCCCCCCCCCCCCCCCCCCCCCC	아우레 아티카는 태어난 곳을 찾아봐 WIKI PEDIA
+birth_place	CCCCCCCEECCCC	백과사전으로 김질 출신지
+birth_place	CCCCCCCCEEEEEEEEEECCCCCCCCCCC	위키피디아에서 포켓몬스터의 사토시 태어난 곳이 어디지
+birth_place	EEEECCCCCCCCCCC	멜로데스는 태어난 곳 어디야
+birth_place	CCCEEEEECCCCCCCCCCCCCCCCC	검색 벤 케노비의 출생지에 대한 정보가 필요해
+birth_place	CCCCCCCCCCCEEEEECCCCCCCCC	위키피디아백과사전에 헬로우키티 태어난 곳 뭐야
+birth_place	CCCCCEEECCCCCCCCCCCC	검색으로 한희순 출생지 좀 가르쳐주라
+birth_place	CCCEEEEEECCCCCCCCCCCCCCCCCCC	검색 메이스 윈두는 태어난 곳의 이름이 뭔지 궁금해
+birth_place	EEECCCCCCCCCCCC	최운혁은 태어난 곳이 궁금해
+birth_place	EEEEEEEEECCCCCCCCCCCCCCCCCC	바샤르 알 아싸드 고향은 위키백과에 어디서 했는지
+birth_place	EEEEEEEECCCCCCCCCC	오스왈도 산체스 태어난 곳 찾아봐
+birth_place	CCCCCCCCCEEEEECCCCCCCCCCCCC	WIKI 사전에 녹두 장군의 출생지 좀 가르쳐주라
+birth_place	EEECCCCCCCCCC	앤마리 출생 장소 탐색해
+birth_place	EEEEEEECCCCCCCCCCCCCCCCCC	바이쇼 미쓰코 출생지 WIKIPEDIA 찾아줘
+birth_place	CCCCCEEEEEEEEEEEECCCCCCC	검색으로 안토니오 사바토 주니어가 고향 뭔지
+birth_place	EECCCCCCCCCCCCCCCCCCCCCCCC	쉘미가 출생지 좀 위키 백과에 알려줄 수 있겠니
+birth_place	CCCEEEEEECCCCCCCCCC	검색 리니어모터카 출생지를 찾아주라
+birth_place	EEEEEEECCCCCCCCCCCC	사미르 나스리가 태어난 곳이 어디야
+birth_place	EECCCCCCCCC	버키가 태어난 곳 뭐
+birth_place	EEEEEEEEEEEECCCCCCCCCC	알랑 마르케스 로레이루의 출생지가 어디심
+birth_place	EEEECCCCCCCCCC	고자라니의 출생지가 어디야
+birth_place	EEEECCCCCCCCCC	키노피오 태어난 곳을 찾기
+birth_place	CCCCCCCCEEEEEECCCCCCCCCCCCC	위키 검색으로 롤로노아조로가 태어난 곳 좀 찾아줘
+birth_place	CCCCCCCCCEEEEEECCCCCCCCCCCCC	위키 피디아에서 다이몬 고로 태어난 곳 좀 찾아주셈
+birth_place	CCCCCEECCCCCCCC	검색으로 조커 출생지를 검색
+birth_place	CCCEEEEEEEEEEEEEECCCCCCCCC	가서 LEGENDARYTALES 출생지가 어디야
+birth_place	EEEEEEEEEEEEEEECCCCCCCCC	소라야 에스판디아리바흐티아리의 고향을 알아봐
+birth_place	EEEEEEEECCCCCCCCCC	다카기 다카히로의 출생지를 찾아줘
+definition	EEEEEEEEEECCCCCCCCCCCC	운천사 마애여래좌상 백과사전에서 찾아봐봐
+definition	EEECCCCCCCCCCCCCCCCC	도선리 WIKI 사전에서 검색해주세요
+definition	EEEEEEEEEEECCCCCCCCCCCCCCCCCCC	WWWSMOSHCOM에 관해 WIKIPEDIA에서 찾아
+definition	CCCCCCCCCCCCEEECCCC	위키피디아사전에 나온 국해성 찾아줘
+definition	EEEEEECCCCCCCCCCCCCCCCCCCCCC	경기고속도로에 대해 WIKI사전백과 검색 좀 해봐봐
+definition	CCCCCCCCCCCCEEEEEEECCCCCCCCCC	WIKIPEDIA에서 스타드 사푸토에 관한 정보 검색
+definition	EEEEEEEEEECCCCCCCCCCCC	갤럭시 메가 6.3 WIKI에서 찾아보까
+definition	EEEECCCCCCCCCCCCCCCCCCCC	신창학성 좀 위키 피디아에서 검색해서 알려줘
+definition	EEECCCCCCCCCCCCCCCCCCCCCCCCC	김승진에 대한 정보 WIKIPEDIA에서 좀 찾아줘
+definition	EEEEEEEEEEECCCCCCCCCCCCCCC	이원초등학교 관동분교가 뭔지 찾아줘 WIKI에서
+definition	EEEECCCCCCCCCCCCCCCCCCCCC	한전기술에 관해 WIKIPEDIA에서 알고싶어
+definition	CCCCCCCEEEEEECCCCCC	위키사전으로 고니자리 P 검색해볼래
+definition	EEEEEEEECCCCCCCCCCCCCCCCCCCC	칼맑스의 제자들 관련 정보 WIKI 백과에서 서치해
+definition	CCCCCCCCEEEEEEEEEEEEECCCCCCCCC	WIKI 백과 LOVE YOURSELF 무엇인지 검색해
+definition	CCCCCCEEEECCCCCCCCC	WIKI야 XFTP는 뭔지 알려줘봐
+definition	CCCCCCCCCCCCEEECCCCCC	WIKIPEDIA에서 박학기 정의 검색
+definition	CCCCCCCCCCEEEEEEEEECCCCC	위키피디아사전에서 지롱댕 드 보르도 겸색해봐
+definition	CCCCCCCCEEEEEEECCCCCCCCCC	위키피디아에서 가쿠엔마에 역에 대해서 찾아보라
+definition	CCCCCCCEEEEEEEEEEEEEECCCCCC	위키 백과로 WOLF AND SHEEP 좀 찾아줘
+definition	EEEEEEEECCCCCCCCCCCCCCCCCCCCC	중소기업진흥공단에 대해서 위키피디아사전에서 정보 찾아
+definition	CCCCCCCCCCCCEEEEECCCCCCC	WIKI PEDIA로 칼 스미스 좀 알아보자
+definition	EEEEEEEEEEECCCCCCCCCCCCCCCCCC	율리시스 S. 그랜트에 대해 WIKI백과에서 찾아봐봐
+definition	EEEEEEEEECCCCCCCCCCCCC	미얀마 연방공화국 위키피디아에서 서치해봐
+definition	EEECCCCCCCCCCCCCCC	쉰바리에 대해 백과사전으로 알려줘
+definition	CCCCCCCCCEEEEEECCCCC	WIKI 백과에 덕흥 대원군 검색 고
+definition	EEEEECCCCCCCCCCCCCCCCCCCCCCCC	궁정유대인에 대한 정보 WIKIPEDIA백과 검색하기
+definition	EEEEEEEEECCCCCCCCCCCCCCCCCCC	남부돼지꼬리마카크에 대한 정보 위키 백과 서칭 시작
+definition	EEEEECCCCCCCCCCCCCCC	하이둥 시에 대해 위키 백과에서 찾기
+definition	EEECCCCCCCCCCCCCCC	삼호동 WIKI백과에 검색 부탁해
+definition	CCCCCCEEEEEEEEEECCCCCCCCC	백과사전에 뉴저지 주립 대학교 찾아볼 수 있지
+definition	EEEEEECCCCCCCCCCCC	크롬웰 전차가 뭐에요 위키 피디아
+definition	CCCCCCCCEEEECCCCC	위키피디아에서 간석4동에 대해서
+definition	CCCCCCCCCCCCEEEECCCCCCC	WIKIPEDIA에서 토니 젓 검색 좀 해
+definition	EEEEECCCCCCCCCCCCCCCC	부르크극장 WIKI 피디아에서 찾아봐라
+definition	EEEEEECCCCCCCCCCCCCCCCCCCCCCC	순성초등학교에 대해서 WIKI PEDIA에서 알려줘라
+definition	EEEEEECCCCCCCCCCCCC	이브 생로랑 WIKIPEDIA 서칭
+definition	CCCCCCCCCEEEEEEECCCC	위키백과사전에서 무라타 히로나 말해봐
+definition	CCCCCCCCCCCCEEEEECCCC	WIKIPEDIA에서 시노로 역이 머야
+definition	CCCCCCCCCCCCEEEECCCCCCCCCC	위키피디아백과사전에서 발케넨데는 무엇인지 알려줘
+definition	EEEEEEEEEECCCCCCCCCCCCCCC	사립 바카레아 고교 검색해줘 위키피디아백과사전
+definition	EEEEEEEEEECCCCCCCCCCCCCCCCCC	익산 문수사 대웅전 좀 WIKIPEDIA로 검색해줘
+definition	EECCCCCCCCCCCCCCCC	추억에 대해 위키 백과에 검색 좀
+definition	CCCCCCCCCCCEEEEEEEECCCCCCCCCC	WIKI 피디아에서 므네사르카이아속은 누군지 검색해줘
+definition	CCCCCCCEECCCCCCCCCC	백과사전에서 옌창에 대해서 검색해라
+definition	CCCCCCCCCEEEEEEEECCCCCCCCCCCCC	WIKI사전으로 과히라쇠주머니쥐에 관해 찾아서 설명해줘
+definition	EEEEEEEEEEEECCCCCCCCCCCCCCCCCC	세스트리에 유니버시아드에 대해서 WIKI 백과에서 찾아
+definition	EEECCCCCCCCCCCCCCCCCCCC	여낙의에 대해서 WIKI사전에서 보고 싶어
+definition	CCCCCCCEEEEEEECCCCC	위키백과에서 시리키트 왕비 서치해봐
+definition	EEECCCCCCCCCCC	미대동 위키 검색 좀 해봐
+definition	EEEEEECCCCCCCCCCCCCCCCCCCCC	한성대입구역 좀 WIKIPEDIA백과에서 검색해봐
+definition	CCCCCCCCCCCEEEEEEECCCC	WIKI백과사전에서 신명순성왕태후 말해봐
+definition	CCCCCCCCCEEEEEEECCCCCCCCC	위키 피디아에서 고함원숭이아과가 뭔지 검색해봐
+definition	EEEEEEECCCCCCCCCCCCCC	이스라엘 하욤에 대해 위키 백과에서 좀
+definition	EEEEEEEECCCCCCCCC	진천농업전수학교 위키피디아 서치
+definition	EEECCCCCCCCCCCCCCCCCC	윤택상에 관해서 WIKI백과로 검색 좀
+definition	CCCCCCCCCCEEEEEEECCCCCCCCCCC	WIKI 백과에서 사회주의통일당에 관해 검색 좀 해
+definition	CCCEEEECCCCCCCCC	위키 천룡팔부에 대해서 말해봐
+definition	EEECCCCCCCCCCCCCCCCCCCC	권득인에 대해 WIKI백과 검색 좀 해봐봐
+definition	EEEEEECCCCCCCCCCCCCC	토니 스타크 정의 위키 백과 검색하기
+definition	EEEECCCCCCCCCCCCCCC	선우현수는 뭔지 WIKI사전 찾아봐
+definition	EEEEEEEEEEEECCCCCCCCCCCCCC	2010년 밴쿠버올림픽에 관해 WIKI 검색해봐
+definition	CCCCCCCCCCCCCCEEEEEEEEEEE	WIKI PEDIA 서칭 봉담과천도시고속화도로
+definition	CCCCCCCCCCCEEECCCCCCCCC	WIKIPEDIA로 부원동에 대해 찾아볼래
+definition	EEEECCCCCCCCCCCCCCCCC	코디악곰 WIKI PEDIA 찾아보라고
+definition	CCCCCCCCCCCEEEECCCC	WIKIPEDIA에 루미큐브 있을까
+definition	EEEEECCCCCCCCCCCCCCCCC	모장 AB에 관해 WIKI 사전 검색해라
+definition	EEEEEEEEEEECCCCCCCCCCCCCCCC	울산광역시문화예술회관 정의 좀 WIKI로 검색해줘
+definition	EEEECCCCCCCCCCCCCCCC	경상감영에 관해 위키피디아로 검색 좀
+definition	EEECCCCCCCCCCCCCCCCCCCCCCCCCCC	숲땃쥐에 관한 정보 WIKIPEDIA백과사전에서 찾아줘
+definition	EEEEEECCCCCCCCCCCCCCCCCCCCCC	절친노트 2에 대해서 WIKIPEDIA에서 좀 찾아
+definition	EEEEEEEEEEECCCCCCCCCCCC	존 해스브룩 반 블렉 백과사전으로 찾아봐봐
+definition	EEEEEEECCCCCCCCCCCCCCCCCCCCCCC	제국 대장공주에 대해 WIKIPEDIA백과사전 검색 좀
+definition	CCCCCCCCCEEEEEEEEEEECCCC	WIKI백과사전 이장호의 외인구단 2 말해봐
+definition	CCCCCCCCCCEEEEEECCCCCCCCCC	WIKI 백과에서 슈리야 사란 관련 정보 검색해
+definition	CCCCCCEEECCCCCCCCC	위키백과로 연인들에 관해 검색 좀
+definition	EEECCCCCCCCCCCCCCCCCCC	질현성은 뭔지 WIKI사전으로 검색해봐봐
+definition	CCCCCCCCCCCEEECCCCCCCC	WIKI백과사전에서 둔동리 찾을 수 있어
+definition	EEEEECCCCCCCCCCC	흐르바츠카에 대해 말해줘 위키
+definition	EEEEEEEEECCCCCCCCCCCCCCC	현대 아반떼 쿠페 WIKIPEDIA백과에 쳐
+definition	EEEEEEEECCCCCCCCCCCCCCCCCCCCCC	옛 석성 우체국에 대해서 WIKIPEDIA백과 검색 고
+definition	EEECCCCCCCCCCCCCC	만다라가 뭔지 검색해줘 WIKI
+definition	CCCCCCCCCCCCCEEEEEEECCCCCCC	WIKI PEDIA에서 야마노우치 역 좀 검색해봐
+definition	EEECCCCCCCCCCCCCCCCCCC	아닥스 좀 위키피디아에서 검색해서 알려줘
+definition	CCCCCCCCCCCCCCCCEEEEEECCCCCC	WIKI백과사전에서 검색해서 플럭서스뮤직 좀 찾아봐
+definition	CCCCCCCCCCCCCCCEEEECCCCCCCC	WIKI 백과 좀 탐색해서 ESPN에 대해 알려줘
+definition	CCCCCCCCEEEEECCCCCCCCCCCCC	위키 피디아야 리릭스위키에 대해 설명 좀 부탁해
+definition	CCCCCCCCCEEEEEECCCCC	위키 피디아에서 SPEC제로 관해 좀
+definition	EEECCCCCCCCCCCCCC	휴암리 WIKI 피디아에 물어봐
+definition	CCCCCEEECCCCCCCC	위키에서 북상면에 대해서 찾아
+definition	EEEEEEECCCCCCCCCCCCCCCCCCC	리제 마이트너 위키피디아백과사전에 치면 뭐라나와
+definition	CCCCCCCCCCEEEEEEECCCC	WIKI 검색으로 조지 애컬로프 찾아줘
+definition	CCCCCCCCCEEEEEEEEEEEEECCCCCC	위키백과사전에서 1970년 멕시코 월드컵 좀 찾아라
+definition	CCCCCCCCEEECCCCC	위키 백과에서 경모궁 검색할래
+definition	CCCCCCCCCCCEEEEEEEEECCCCCCCC	WIKI백과사전으로 함안 파산 봉수대에 대해 서칭해
+definition	EEECCCCCCCCCCCCCCCCCCCCCC	이영하에 대해 WIKI PEDIA에서 찾고싶어
+definition	EEECCCCCCCCCCCCCCCCCCC	정비석에 대해 WIKIPEDIA 검색하기
+definition	EEEEEECCCCCCCCCCCCCCCCC	신지초등학교 관해서 WIKI백과로 검색해줘
+definition	CCCEEEEEEEEEEEECCCCCC	위키 북북서로 진로를 돌려라 말해주세요
+definition	CCCCCCCCCCEEEECCC	위키피디아사전에서 디아크족 나와
+definition	EEEEEEEEEEECCCCCCCCCCCC	몰 오브 디 에미리트 WIKI에서 찾아주라
+height	CCCCCCCCCEEEEEEEEECCCCCCCCCCC	WIKI 백과에 MTAB IORE가 열차 높이가 뭐야
+height	CCCCCCCCEEEEECCCCCCCC	WIKI백과로 앙헬 폭포의 높이가 뭐야
+height	EEEEEEEEEECCCCCCCCCCCCCC	카우나스 철도 터널의 운행 높이를 알고 싶어
+height	CCCCCEEEEEEEEEECCCCCC	검색으로 천연기념물 제53호의 키 찾기
+height	EEEEEECCCCCCCCCCCCCCC	M18 헬켓의 높이는 WIKI로 몇이야
+height	CCCCCCCCEEEEEEEEEECCCCCCCCC	WIKI사전에 플로랄리스 헤네리카의 높이는 몇이야
+height	CCCCCCEEEEEEEEEECCCCCCCCC	백과사전에 플로랄리스 헤네리카의 높이는 몇이야
+height	CCCCCCCCCEEEECCCCCCCCCCC	WIKI사전백과 노량대교 운행 높이를 찾아줘
+height	CCCCCEEEEEECCCCCCCCC	검색으로 포르모사 섬의 높이 찾아주라
+height	EEEEEEEECCCCCC	시베리안 허스키 키 어떤지
+height	EEECCCCCCCCCCCCCCCCCCC	한나산 높이를 WIKI백과사전으로 알려줘
+height	EEEECCCCCCC	이상해씨 키를 알려줘
+height	CCCCCCCCCCCCCEEEECCCCCCCCCCC	WIKI PEDIA에서 동작철교의 형하 공간 어떤지
+height	CCCCCCCCCCCCCEECCCCCCC	WIKIPEDIA사전에 휘핏의 키를 찾아
+height	CCCCCCCCCCCCEEEEEEECCCCCCCCC	WIKI백과 검색으로 진원리오층석탑의 키 알고 싶어
+height	CCCCCCCCCCCCCCCEEEEEECCCCCCCCC	WIKIPEDIA사전 검색 팬 앰 빌딩이 높이를 알아봐
+height	CCCCCCCCCCEEEEECC	WIKI사전 검색 1660년 키
+height	EEEEEEEECCCCCCC	철근콘크리트공학 높이 알아봐
+height	CCCEEEEECCCCCCCCCCC	검색 초암산터널 운행 높이를 찾아봐
+height	EEEEEEECCCCCCCCCCCCC	허니문인베가스가 전고 WIKI에 검색
+height	CCCCCEEEEEEEEEEEEEEEECCCCCCCC	검색으로 볼프강 크라우저 폰 슈트로하임 신장은 얼마야
+height	CCCEEEEEEECCCCCCCCCCCC	검색 안드레리언탤리가 형하 공간이 어떤지
+height	EEEEEEECCCC	카호올라웨 섬의 높이
+height	EEEEEEEEECCCCCCCCCCCC	OS MX3000의 열차 높이를 찾아줘
+height	CCCEEEEECCCCCCCCC	검색 미시령터널 운행 높이 찾기
+height	CCCCCEEEEEEECCCCCC	검색으로 클리블랜드 산 높이 찾아
+height	CCCCCCCCCCEEECCCCCC	위키백과사전 검색 강철민 신장 뭔지
+height	EEECCCCCCCC	성전산 높이를 찾아줘
+height	CCCCCCCCCCCEEEEEEEEECCCC	WIKI 백과 검색 하마드 알몬타샤리 신장을
+height	EEEEEEEEECCCCCCC	프리덤 우주정거장 높이 어떤지
+height	CCCCCCCEEEEEEEEEEECCCCCCC	위키사전에서 M3 스튜어트 경전차의 높이 찾기
+height	CCCCCCEEECCCCCCC	위키 검색 구병산 높이 알아봐
+height	EEEEEEEECCCCCC	에스테반 헤르만 키 탐색해
+height	CCCCCCCCCCCEEEECCCCCCCCCC	WIKIPEDIA로 황간터널 운행 높이 탐색해
+height	EEEEEEEECCCCCCCCC	설악산 대승폭포의 높이 검색해라
+height	EEEEEEECCCCCCCCCCCCCCCCC	카우나스 터널이 운행 높이 위키사전에서 뭐야
+height	CCCCCCCCCCCEEEEEECCCCCCCC	WIKIPEDIA로 크라플라 산의 높이 찾아봐
+height	EEEECCCCCCCCCCCCC	미사대교의 형하 공간을 찾아주라
+height	EEEECCCCCCCCC	보르조이의 키를 찾아주라
+height	EEEEEEECCCCCCCCCCCCCCC	테트라크 전차 높이 위키피디아로 찾아주라
+height	EEEEEEEEEECCCCCCCCCCCCCCC	플로랄리스 헤네리카가 높이 WIKI로 검색해봐
+height	CCCCCCCCCEEEECCCCCCCCCCC	WIKI 백과로 동호철교의 운행 높이가 뭐야
+height	EEEEEEEEECCCCCCC	베셀린알렉산드로프 높이를 찾기
+height	EEEEECCCCCCCCCC	엔젤 폭포의 높이 알고 싶어
+height	EEEEEEEEEEEEEEEEEECCCCCCCCCC	일본국유철도 C62형 증기 기관차 열차 높이가 위키
+height	EEEEEEEEEECCCCCCC	프리덤 우주 정거장 높이를 검색
+height	EEEEEEEEEEEEEEEECCCCCCCCCC	주메이라 에미리트 타워스 호텔의 건물 높이는 뭐
+height	EEEECCCCCCCCCCC	소래터널 운행 높이를 탐색해
+height	CCCEEEEEECCCCCCCCC	검색 셰리단 전차 높이를 검색해봐
+height	CCCCCEEEECCCCCCC	위키에서 BMP3 높이가 뭐야
+height	EEECCCCCCCC	응봉산 높이를 알려줘
+height	CCCCCCCCCEEEEEEEECCCCCC	WIKI 백과에 시베리안 허스키 키를 검색
+height	EEEEEEEECCCCCC	콰우테목 블랑코 신장 찾기
+height	CCCCCEEEEEEEECCCCCCCCCC	백과사전 TOG2 중전차의 높이를 검색해라
+height	CCCCCEEEEEEEECCCC	WIKI 국제 우주정거장 높이가
+height	CCCCCCCCCCCEEEEEEEEEECCCCCCCCC	WIKI 백과 검색 MITRE PEAK의 높이 검색해줘
+height	EEEEEEEECCCCCCCCCCCCCCCCCCC	HKL M200 열차 높이 위키 피디아에서 알아봐
+height	CCCCCCCEEEECCCCCCCC	WIKI에서 테마뮤직 키를 탐색해줘
+height	EEEEEEEECCCCCCC	M41 워커불독 높이 검색해
+height	EEEEECCCCCCCCCCC	사패산터널은 운행 높이 얼만지
+height	CCCCCCCCCCCECCCCCCC	WIKI사전백과에서 뮤의 키 몇이야
+height	EEEEEEEEEECCCCCCCCCCCCC	알레산드로 디아만티는 키가 몇 센치야 검색
+height	EEEEEEEEECCCCCCCC	국제 우주 정거장의 높이 어떤지
+height	EEEEEEEEECCCCCCCCCCCC	현대 싼타페 XL 차량 높이 알고 싶어
+height	EEEEEEEEEECCCCCCCC	플로랄리스 헤네리카의 높이 탐색해
+height	EEEEEECCCCCCCCC	VR SM6의 전고 검색해봐
+height	EEEEEEEEECCCCCCCC	MTAB IORE 전고 찾아주라
+height	EEEEEECCCCCCCCCCCCCCCCC	라이언 브런의 신장 WIKI사전에서 어떤지
+height	CCCCCCCCCEEEECCCCCCC	WIKI사전으로 라세린드 키가 어떤지
+height	EEEEEEEEEECCCCCCCCCCCCCCCC	플로랄리스 헤네리카의 높이는 몇이야 WIKI백과
+height	EEEEECCCCCCC	350GT의 전고 뭐야
+height	EEEEEEEEEEEEEEEEECCCCCCCCCC	카렐리안 트레인즈 ALLEGRO 열차 높이 검색해
+height	EEEEEEEECCCCCCC	HKL M200 전고를 찾기
+height	CCCCCCCCCCEEEEEEEECCCCCCCCCCC	WIKI 검색으로 레인보우 브리지 운행 높이를 알아봐
+height	CCCEEEEEEECCCCCCCCCCCC	검색 국제우주정거장의 높이 얼마나 되는지
+height	EEEEEEEEEECCC	플로랄리스 헤네리카 높이
+height	EEEECCCCCCCCCCC	전기만록 형하 공간이 어떤지
+height	EEEEEEEEEECCCCCCCCCCCCCCCC	프리덤 우주 정거장의 높이를 WIKI사전 알려줘
+height	CCCCCEEEECCCCCCCCCCCC	검색으로 경주터널의 운행 높이 검색해봐
+height	CCCCCCCCCCEEEECCCCCCCCC	WIKI백과사전에 정자기학의 높이 탐색해줘
+height	EEECCCCCCCCC	C62의 전고를 찾아줘
+height	CCCCCCCCCCCCCEEEECCCCCCCCCC	WIKI 백과 검색으로 압해대교 형하 공간 탐색해
+height	CCCCEEEEEECCCCCCCCCCCC	위키에 진화시푸장현 높이는 얼마나 되는지
+height	EEEECCCCCCCCCCCC	BMP3의 높이 얼마나 되는지
+height	EEEEEECCCCCCCCC	쾨니히스티거의 높이가 어떤지
+height	CCCCCCCCCCCCEEEECCCCCCCCCC	위키 피디아 검색으로 국우터널 운행 높이를 찾아
+height	CCCCCCCCCCEEEEEECCCCCCCCCCC	위키피디아사전으로 역전야매요리는 높이를 알고 싶어
+height	CCCCCCCCCEEEECCCCCCCCCCCC	위키 피디아에서 수암터널의 운행 높이 탐색해줘
+height	EECCCCCCCCCCC	홋코의 등록신장이 얼마야
+height	EEEEECCCCCCCCCCCCCCCCCCCCCC	옥천1터널 운행 높이를 WIKI백과사전으로 탐색해
+height	CCCCCEEEEEEEEEECCCCCCCCCC	검색으로 플로랄리스 헤네리카의 높이를 찾아주라
+height	EEEEEEECCCCCCC	아프간 하운드의 키를 찾아
+height	EECCCCCCCCCCC	홍도 높이 위키로 얼마야
+height	EEEEEECCCCCCCCC	파레체 벨라 높이를 검색해줘
+height	CCCCCEEEECCCCCCCCCCCCCCCCCCCCC	검색으로 K1A1가 높이는 어느정도인지 정확하게 알려줘
+height	EEECCCCCCCCCCCCCCCCCCCCCC	박진영은 키는 WIKI PEDIA로 얼마나 돼
+height	EEEECCCCCC	헌팅던셔의 키 뭐지
+height	CCCCCCCCEEEEEEEEEECCCCCCCCC	WIKI백과로 플로랄리스 헤네리카 높이를 검색해봐
+height	EEEEEECCCCCCCC	이구아수폭포 높이 검색해라
+height	CCCCCCCCCCCCCCCEEEECCCCCCCCCC	위키피디아백과사전 검색으로 알레그로의 열차 높이 검색
+length	CCCCCCCCCCCCEEECCCCCCCCCCCCC	WIKI사전 검색으로 해뜰날의 길이는 어떻게 되는지
+length	EEEEEEEEECCCCCCC	한국형 팰콘 1호 전장 어떤지
+length	CCCCCCCCCCCCCCEEEECCCCCCCCC	WIKIPEDIA백과사전 온누리호의 크기 검색해줘
+length	CCCEEEEEEEEEECCCCCCCC	검색 카시쿨락스카야 동굴의 길이 탐색해
+length	EEEECCCCCCCCCCCCCCC	드네프르 길이가 대충 얼마 정도 돼
+length	EEECCCCCCCCC	사하라의 길이가 어떤지
+length	EEEEEEEECCCCCCCCCCCCCCCCCC	피아트 6614 길이는 대략 얼마인지 가르쳐주라
+length	EEEEEECCCCCCCCCCCCCCCCCCCCC	모로타이 섬의 길이가 대략 얼마 정도 되는 강이야
+length	EEEEEEEECCCCCCCCCCCCCCCCCCCCC	봄바디어 레지나 길이는 위키피디아사전에 얼마나 되는지
+length	CCCCCCCCEEEECCCCCCCCCC	WIKI 검색 튀김소리의 길이를 검색해라
+length	EEEEECCCCCCCCC	시트라 섬의 길이를 찾아봐
+length	EEEEEEEECCCCCCCCCCCC	섬진강 자전거길의 편성 길이를 알려줘
+length	CCCCCCCCCCEEEECCCCCCCC	위키 피디아 검색 아메리칸의 길이 찾아줘
+length	CCCCCCCEEEEEEEECCCCCC	위키 피디아 GOOD DAY 길이 검색
+length	EEECCCCCCC	대화강 장단을 검색
+length	EEEEEEECCCCCCCCCCCCCCCCCC	사까피솔라 섬 길이는 대략 얼마인지 가르쳐주라
+length	CCCCCCCCCCCCCCCEEEEECCC	WIKIPEDIA사전 검색 창정 1D 길이
+length	EEEEEEECCCCCCCCCCC	히카리가오키역 길이는 얼마나 길어
+length	CCCCCEEEEECCCCCCCC	검색으로 코넥티컷주의 길이 몇이야
+length	EEEEEEECCCCCCCCCC	코카서스 산맥의 길이를 탐색해줘
+length	EEEEEECCCCCCCC	살류트 1호의 길이 몇이야
+length	CCCEEECCCCCCCCCCCCCCCCCCC	검색 국기가의 길이가 대략 얼마나 되는지 알아
+length	EEEEEEEEEECCCCCCCCCCC	카시쿨락스카야 동굴의 길이를 알고 싶어
+length	CCCCCCCEEEEEEEEEEEEEEEECCCCC	WIKI백과 MEAN MR. MUSTARD 곡 길이
+length	CCCCCEEEEEECCCCCCCCCCCCC	검색으로 천리안 위성의 우주선 길이 검색해줘
+length	EEEEEEEEEECCCCCC	카시쿨락스카야 동굴 길이 뭐야
+length	CCCCCEEEEEEECCCCCCCCC	검색으로 자주박격포 칼 길이를 검색해봐
+length	CCCCCCCCEEEEEEEECCCCCCCCC	WIKI백과로 레인보우 브리지의 길이 탐색해줘
+length	EEEECCCCCC	개령문씨 길이 검색
+length	EEEEEECCCCCCC	89식 소총 길이 몇이야
+length	CCCCCCCCCEEEEECCCCCCCCCCCCC	위키백과사전에서 창정 2D 길이는 몇 미터정도 돼
+length	EEEEECCCCCCCCC	고비 사막 길이를 찾아주라
+length	CCCEEEEEECCCCCCCC	검색 가마나시 강 장단이 몇이야
+length	EEEECCCCCCCCCCCCCCCCCCCCCCCC	모로타이의 길이는 대략 얼마 정도인지 알 수 있을까
+length	CCCEEEEEEEECCCCCCCC	검색 항저우 만 대교 길이를 찾아줘
+length	CCCCCEEEEEECCCCCCCCCCCCC	들어가서 치와와 사막이 편성 길이를 알려주라
+length	EEEEEEEEECCCCCCCCCCCCCCCCCCC	이념의 경계의 강의 총 길이 WIKI사전에 검색해봐
+length	EEEEEECCCCCCCCCCCCCCCCCC	사하라 사막의 길이가 대략 얼마인지 알고있니
+length	CCCCCCEEEEEEEECCCCCCCCCCC	위키 가서 웨스트버지니아주의 총길이는 궁금하다
+length	EEEEEEECCCCCC	볼보 9500 길이 뭐야
+length	EEEEEECCCCCCCCCCC	천리안 2호 우주선 길이는 뭐야
+length	EEEEEEEECCCCCCCCCCCCCCCCCCC	GOOD BOY의 길이가 대충 얼마인지 알고 있어
+length	EEEEEEECCCCCCCCCCC	USS 맥커럴의 전장을 WIKI로
+length	EEEECCCCCCCCCCCCCCCCCCCCCC	파이썬3 길이가 어느 정도 되는지 알 수 있을까
+length	EEECCCCCCCCCCCCCCCCCC	C62의 길이를 WIKI백과사전 찾아봐
+length	CCCCCEEEEECCCCCCCC	검색으로 퓨쳐플로우 길이 검색해줘
+length	CCCCCCCCCEEEEECCCCCCCCCC	WIKI백과에서 사하라사막 길이를 알고 싶어
+length	CCCCCCCCCCEEEEEEEEEECCCCCCCCCC	WIKI백과사전에 신진 RC420TP의 차량 길이 뭐지
+length	EEEECCCCCCCCCCCCCC	88탱크의 길이는 얼마인지 알려줘
+length	EEEEEEEEEECCCCCCCCC	K14 저격용 소총의 길이를 찾아줘
+length	EEEECCCCCCCCCCCCC	가설검증은 장단 WIKI 알아봐
+length	EEEEECCCCCCCC	팰컨 1호 전장은 몇이야
+length	CCCCCCCCCCCCEEEEEECCCCCCCCCCC	위키피디아백과사전에서 사사고 터널의 총 길이를 알려줘
+length	CCCCCCEEEECCCCCCCCC	WIKI로 야루 강 전체 길이 찾아
+length	EEEECCCCCCCCCCCCCCCCC	접근통과 길이 WIKI 피디아에 어떤지
+length	CCCCCCCCCCCEEEEEEEECCCCCCC	WIKI사전백과에서 9K38 이글라의 길이 뭐야
+length	EEEECCCCCCC	고비사막은 길이 검색
+length	CCCEEEEEECCCCCCCC	검색 노스다코타주의 길이 탐색해
+length	EEEEEEEEEECCCCCCCC	97식 중전차 지하 길이 검색해줘
+length	CCCCCCCEEEEEEEEECCCCCC	WIKI사전 BT 전차 시리즈 길이 뭔지
+length	EEEEECCCCCCCCCCCCCCCCCCCCCCCCC	TEARS가 길이는 대충 몇 킬로미터 정도 되는지 알아
+length	EEEECCCCCCCCCC	귀산터널 길이가 얼마나 돼
+length	CCCEEECCCCCCCCC	검색 NSX의 길이는 얼만지
+length	EEEEEEEEEEEEEECCCCCCCCCCCCC	영국 순양전함 HMS 후드의 크기는 어떻게 되는지
+length	EEEEECCCCCCCCCC	NEVER의 곡 길이는 뭐야
+length	CCCCCCEEECCCCCCCCCCC	WIKI에 초야권의 길이가 어느정도야
+length	EEEEEEECCCCCCCCCCCCCCCCCC	동진여자중학교 길이를 위키피디아백과사전에 찾아
+length	CCCCCCCCCCCCCCCEEEEECCCCCCC	WIKIPEDIA백과 검색 창정 2D의 길이 검색
+length	CCCCCCCEEEECCCCCCCCCCCCC	위키 백과에 백양터널이 길이는 몇 킬로미터야
+length	CCCCCCCCCCCCEEECCCCCCCC	WIKI사전 검색으로 첨서과의 길이 검색해
+length	CCCEEECCCCCCCCCCCCCC	가서 BEC의 총길이가 얼마나 되더라
+length	EEEECCCCCCCCCCCCCCCC	미스트랄이 흐르는 길이는 얼마나 길어
+length	EEECCCCCCCCCCCCCCC	휘파람 길이가 WIKI백과에 뭔지
+length	CCCCCCCCCCEEECCCCCCCC	WIKI 백과에서 천리안 전장을 알아봐
+length	CCCCCCCCCCCEEEECCCCCCC	WIKI 피디아에서 고비사막 길이 몇이야
+length	CCCEEEECCCCCCCCCCCCCCCCCCCCCC	가서 넌장 강의 길이는 대략 얼마정도 되는지 알고있어
+length	EEEEEECCCCCCCCC	뉴맥시코 주의 길이를 알려줘
+length	EEECCCCCCCC	HII의 길이 얼만지
+length	CCCCCCCCEEEEEECCCCCCC	WIKI백과로 사하라 사막 길이 어떤지
+length	CCCCCCCCCCCCCCEEEEECCCCCCCC	WIKIPEDIA백과에서 사하라사막의 길이는 뭐야
+length	CCCEEEEECCCCCCCCCCCCCCCC	검색 SJ Y3는 흐르는 길이는 얼마나 길어
+length	CCCCCCEEEEEECCCCCCCCC	WIKI로 선롱 두에고 길이 알고 싶어
+length	CCCCCEEECCCCCCCCCCCCC	들어가서 자호천 길이가 몇 미터정도 돼
+length	EEEEEEEEEECCCCCCCCCCCCCCC	카시쿨락스카야 동굴의 길이는 대략 얼만지 알아
+length	EEEECCCCCCCCCCCCCCCCCCCC	양쯔 강 총 길이 WIKI백과 어떻게 되는지
+length	EEEEEECCCCCCCCCCCCCCCCCC	살류트 1호 길이는 얼마나 되는지 혹시 알아
+length	CCCEEEECCCCCCCCCCC	검색 죽령터널 총 길이를 검색해줘
+length	EEEEEEECCCCCCCCCCCC	서소문고가도로의 길이 얼마나 되는지
+length	EEEEEEEEEEEEEECCCCCCCCC	STRIDSVAGN 103의 길이를 탐색해
+length	EEEEEEEEEEEEEECCCCCCC	BEAUTIFUL LIES 길이 찾아봐
+length	CCCEEEEECCCCCCCC	검색 알타이산맥의 길이를 찾기
+length	CCCCCCCCCCCCEEEEEEECCCCCCCCC	WIKIPEDIA사전 보쿠라노기세키의 길이를 알아봐
+length	EEEEECCCCCCCC	아키츠시마의 전장을 검색
+length	CCCCCCCCCCCCEEEEEEEEECCCCCCCC	WIKI PEDIA로 프리덤 우주정거장 길이 탐색해줘
+length	CCCCCCCCCEEEECCCCCCCCCCCCCCCC	WIKI사전으로 천궁1호의 길이는 약 몇 킬로 미터야
+length	CCCCCCCCEEEEEECCCCCCCC	위키 검색으로 ASTROH의 전장 몇이야
+length	EECCCCCCCCCCCCCCCCC	우지 길이가 위키피디아에 얼마나 돼
+length	EEEEECCCCCCCCCCCCCCCCCCCCC	톈궁 1호의 길이가 대충 얼마 정도 되는지 알아
+length	CCCCCEEEEEECCCCCCCCCCCCCCCCCCC	검색으로 치와와 사막 길이는 몇 미터 정도 되는지 알아
+length	EEEEEEEEEECCCCCCCCC	영월초등학교연하분교 길이를 검색해봐
+weight	EECCCCCCCC	35의 중량 알려줘
+weight	CCCEEEEEEEEEECCCCCCCC	검색 칼라니쉬코프 AKM의 중량 찾아줘
+weight	CCCCCCCCCCCCEEEEECCCCCCCC	WIKI백과 검색으로 온라인옥션 몸무게 검색해
+weight	CCCCCCEEEEEEEECCCCCC	WIKI에 EOS 400D 무게는 뭐
+weight	EEEEECCCCCC	팰콘 1호 중량 찾기
+weight	EEEECCCCCCCCCCCCCCCCC	천궁1호의 중량은 WIKI백과에 얼만지
+weight	EEEECCCCCC	A550 중량 찾기
+weight	EEEEEEEEEEEEEEEECCCCCCCC	CYON OPTIMUS ONE의 무게 검색해
+weight	EEEEEECCCCCCCCCCCCCCCCCCCCC	토코 아이콘의 무게가 어떻게 되는지 알 수 있을까
+weight	EECCCCCCCCCCCC	잘파의 전비 중량 검색해줘
+weight	EEEEEEEEEEECCCCCCCCCCC	슈타이어AUGHBAR의 중량을 알고 싶어
+weight	CCCCCEEEEECCCCCCCCCCCCCCC	검색으로 존드 2호의 중량에 대해 정보 좀 줘
+weight	CCCCCCCCCCCCEEEEEEEEEEECCCC	WIKI백과사전 검색 슈타이어AUGHBAR 무게를
+weight	EEEECCCCCCCCC	보르조이의 몸무게가 뭐지
+weight	CCCCCCCCCCCCEEEEEEEEEEEECCCC	WIKI백과 검색으로 KSLVII 시험발사체 무게를
+weight	EEEECCCCCCCCCCCCCC	에스파다 전비 중량 얼마나 되는지
+weight	EEECCCCCCCC	큐브샛의 중량 얼만지
+weight	CCCCCCCEEEEECCCCCCC	위키백과에서 은하 2호가 무게 뭐지
+weight	EEEEEECCCCCCC	매리너 9호의 중량 찾기
+weight	EEEEEEECCCCCCCCCCCCCCCCCCCCCCC	SIG 551의 무게는 WIKI백과사전에 얼마나 되는지
+weight	EEEEEEEECCCCCCCCCCC	SHWM100S의 무게 좀 검색해봐
+weight	EECCCCCCCC	니켈은 무게 얼마야
+weight	CCCCCCCCEEECCCCCCCCC	위키사전 검색 장오견의 몸무게 어떤지
+weight	EEEEEEEEEEECCCCCCCCCCC	RIM162 ESSM 발사 중량 검색해봐
+weight	EEEEECCCCCCCCCCCCCCCCCCCCC	메가뮤츠X의 몸무게를 위키피디아사전에서 탐색해줘
+weight	CCCEEEEEECCCCCC	검색 아리랑 2호 중량 찾기
+weight	EEEEECCCCCCCCCCCCCCCCCC	하프 달러 무게를 WIKIPEDIA백과사전
+weight	CCCCCCCCCEEEEEECCCCCCCCCCC	WIKI사전으로 START1가 무게는 어떻게 돼
+weight	CCCCCCCCEEEECCCCCCCCCCCC	WIKI백과로 토미헌터 체중은 얼마인지 알아
+weight	CCCEEEEEEEEEEECCCCCCCCCCCC	검색 람보르기니 아벤타도르의 자체 중량 검색해봐
+weight	EEEEECCCCCCCCC	아르세우스의 몸무게 찾아줘
+weight	EEEEEEECCCCCCCCCCCCCCC	M21 저격총 중량을 위키사전으로 찾아봐
+weight	EEEECCCCCCCC	대왕고래 체중 찾아주라
+weight	CCCCCCCEEEEEEEECCCCCCCCC	WIKI에서 소니 NEX5N 중량을 검색해줘
+weight	EEECCCCCCCCC	자라마 자체 중량 검색
+weight	EEEECCCCCCCCCCCCCCCCCCC	FM30 무게 위키피디아백과사전으로 어떤지
+weight	CCCCCCCCCEEEECCCCCCCCC	WIKI 백과로 만덕고개의 질량을 알아봐
+weight	EEEECCCCCCCCCCC	KASI의 무게 좀 찾아줄래
+weight	EEEEEEEECCCCCCCCCCCCCCC	YEPP T8N 질량을 WIKI에서 찾아줘
+weight	EEEEEEEEEEECCCCCCCCCCCCCCCCCC	포항특정경비지역사령부 무게 WIKIPEDIA로 찾아봐
+weight	EEEEEECCCCCCCCCC	니콘1 V2의 무게 알고 싶어
+weight	CCCCCCCCCCEEEEECCC	WIKI사전백과로 BTR90 중량
+weight	CCCCCCCCCEEECCCCCCCCCCC	WIKI백과에서 쿤타치 자체 중량을 검색해
+weight	CCCCCEEEEEEECCCCCCCCC	들어가서 2 달러 지폐가 무게는 얼마야
+weight	EEEEEEECCCCCCCCCCCCCC	시베리안허스키 몸무게 WIKI 사전으로
+weight	CCCCCCCCCCCCEEECCCCCCCC	WIKI백과사전 검색 진도개 몸무게 얼마야
+weight	EEEEEEECCCCCCCC	아프간 하운드 몸무게를 검색
+weight	CCCCCEEEEECCCCCCCCC	검색으로 토리 헌터의 몸무게를 검색
+weight	EEEEEEEECCCCCCCCCCCCCCCCCCC	25 센트 동전은 무게는 어떻게 되니 WIKI백과
+weight	CCCCCCEEEEEEEECCCC	WIKI로 크리스 슈퍼 V의 무게
+weight	CCCEEEEEEEEEECCCCCCCC	검색 칼라니쉬코프 AKM의 중량 찾아줘
+weight	CCCCCCCCCCCCCCCCEEEEECCCCCC	WIKI PEDIA 검색으로 KH179는 중량 뭐
+weight	EEEEEEEEECCCCCCCC	미국 1달러 지폐의 무게 얼만지
+weight	EEEEEEECCCCCCCCC	티라노사우루스 체중을 검색해라
+weight	CCCCCEEEEEEECCCCCCCCCCCC	들어가서 넷포스 DMB의 차량 중량은 얼마야
+weight	EEEEEEEEEEEEEEEECCCCCCC	M43 시즌2 아카데미 플러스 중량 몇이야
+weight	CCCCCCCCCCCEEEEEECCCCCCC	WIKI백과사전에서 포보스 2호 중량 알아봐
+weight	CCCCCCCCCCCCCEEEEEECCCCCCC	WIKI PEDIA에서 코스모스3M 무게를 찾기
+weight	EEEECCCCCCCC	안성탕면의 중량 얼만지
+weight	EECCCCCCCC	다임 무게를 알려줘
+weight	CCCCCEEEECCCCCCCC	검색으로 경충대로 질량은 어떤지
+weight	EEEEEEEECCCCCCCCCCCC	CNET네트웍스가 무게는 얼마나 나가
+weight	EEEEECCCCCCCCCC	M2 카빈의 무게 알고 싶어
+weight	CCCCCCCCCCEEEEEEECCCCCCC	WIKI 피디아에 새비내 미키나 체중을 찾기
+weight	EEEEEECCCCCCCCCCCCCCCCCCCCC	우리별 2호 중량을 WIKI PEDIA에서 탐색해
+weight	CCCCCCCCEECCCC	백과사전 검색 썬더의 체중
+weight	EEEEEEEEECCCCCCCC	국제 우주 정거장의 중량 알아봐
+weight	EEEEECCCCCCCC	MP7A1 무게가 몇이야
+weight	EECCCCCCCCCC	나옹 몸무게를 검색해봐
+weight	EEEECCCCCCCCCCCC	파나메라의 자체 중량 검색해봐
+weight	CCCEEEEEECCCCCCCCC	검색 클럽 미사일은 무게는 얼마야
+weight	EEEEEEEECCCCCCCC	25 센트 동전의 무게가 뭔지
+weight	EEEEECCCCCCCC	은하 2호 몸무게 찾아봐
+weight	CCCCCCCCEEEEEEEECCCCCCCC	WIKI 검색 티베탄 마스티프 몸무게 찾아줘
+weight	CCCEEEEECCCCCCCCC	검색 가로본능폰 무게를 탐색해줘
+weight	EEEEEEECCCCCCCC	1D MK 3의 중량을 검색
+weight	EEECCCCCCCCCCCCCCC	진라면 중량 위키 피디아에서 뭐야
+weight	EEEEEEEEECCCCCCC	국제 우주 정거장의 중량 찾아
+weight	EEEEEECCCCCCCCC	베사 기관총은 중량 검색해라
+weight	EEEEEEEEEEECCCCCCCCCC	BGM109G 그리폰 발사 중량 몇이야
+weight	CCCCCCEEEEEEEEECCCCCCCC	위키백과에 미국 1달러 지폐가 무게 알아봐
+weight	EEEEEEEEEEEEEEECCCCCCCCCCCCC	ANYCALL STTD370 무게가 위키백과로 뭐야
+weight	CCCCCCCCCEECCCCCCCCCC	WIKI백과에서 알번의 발사 중량은 뭐
+weight	EEEEEEEECCCCCCCCCCCCCCCCCCCCCC	보이스 대전차총 중량 WIKIPEDIA백과사전에 얼마야
+weight	EEEECCCCCCCC	팰컨 5 무게를 알아봐
+weight	EEEEEECCCCCCCCCCCCCCCCC	주식회사코세의 질량 위키피디아사전에서 찾기
+weight	EEEEECCCCCCCCCCCC	임시적인법 몸무게가 얼만지 아니
+weight	CCCCCCCCEEEEECCCCCCCC	WIKI백과에 NF310 중량을 알아봐
+weight	CCCCCCCCCCEEEEEEEEECCCC	WIKI사전백과에 국제 우주 정거장의 중량
+weight	EEECCCCCCCC	진돗개 몸무게 찾아줘
+weight	EEEEECCCCCCCCCCCCCCCCCCCCC	애플 펜슬은 무게는 WIKI PEDIA에 얼만지
+weight	EEEEEEEEECCCCCCC	X130LS8WK의 중량 찾기
+weight	CCCCCCCCEEEEECCCCCCCCCCCCCCCCC	위키백과 가서 M60E3의 무게가 얼마나 되는지 말해줘
+weight	EEEEEEEEEECCCCCCCC	프리덤 우주 정거장 중량 검색해줘
+weight	EEECCCCCCCCCCCC	곰개미 중량 WIKI 어떤지
+weight	EEEEEECCCCCCCC	익스페리멘탈 무게가 얼마야
+weight	CCCEEEEEEEEEECCCCCCCCCCCC	검색 티란노사우루스 렉스는 체중이 얼마나 나가
+weight	EEEEEEEEEECCCCCCC	HSUPA 스마트폰 무게는 뭐지
+weight	CCCCCCCCEEEEEEEECCCCCCCC	WIKI 검색 티베탄 마스티프 몸무게 찾아봐
+weight	CCCCCEEEEEEEEEECCCCCCCCCCCCC	검색으로 M109A6 팔라딘의 중량이 어떻게 되는지
+width	EEEEECCCCCCC	시트라 섬 너비를 검색
+width	CCCCCCCCCCCCCEEEEEECCCCCCCC	WIKIPEDIA백과에 74식 전차의 폭이 어떤지
+width	EEEEEECCCCCCC	천리안 1호의 전폭 뭐야
+width	EEECCCCCCCCCCCCCCCC	지요다 선폭을 WIKI백과에 알려줘
+width	EEEEEECCCCCC	코겐의 폭포 너비 찾아
+width	EEEEEEEEECCCCCCCCCCCC	잔빌크리거문리대학 너비가 어떻게 되는지
+width	EEEEEEEECCCCCCCC	독일5경기갑사단 폭을 탐색해줘
+width	EEECCCCCCCCC	자라마의 전폭 검색해봐
+width	CCCCCEEEEEEEECCCCCCCC	검색으로 시에라네바다산맥 너비 검색해봐
+width	CCCCCCCCCCCCEEEEEEEEECCCCCCCC	WIKIPEDIA에서 드미트리 돈스코이의 선폭을 찾아
+width	CCCCCCCCCCCEEEEEECCCCCCCCCC	WIKI PEDIA 치와와 사막의 너비를 탐색해줘
+width	EEEEEEEEECCCCC	웨스트사이드스토리 폭 찾아
+width	CCCCCEEEEECCCCCCCCCC	검색으로 시트라 섬 너비를 알고 싶어
+width	EEEEECCCCCCCCC	에어로타운이 차량폭 어떤지
+width	CCCCCCCEEEEEECCCCCCCCCC	위키피디아로 스카이라이너의 차량폭 검색해라
+width	EEECCCCCCC	천리안 전폭을 찾아
+width	EEEEEEECCCCCCCCCCCCCCCCCCCCCC	휴가형 구축함의 선폭을 WIKIPEDIA에서 탐색해줘
+width	CCCCCCEEEEECCCCCCCC	위키백과에 발칸 산맥의 너비 어떤지
+width	EEEEECCCCCCC	사하라사막 너비 찾아줘
+width	EECCCCCCCC	비호 폭을 검색해봐
+width	EEEEEEEEEEEEEEEEECCCCCCCCC	부산교통공사 4000호대 전동차 열차폭은 얼마야
+width	CCCCCEEEEEECCCCCCCCCC	검색으로 제2행주대교 폭 얼마나 되는지
+width	EEEEEECCCCCCCC	살류트 1호 폭을 검색해라
+width	EEEEEECCCCCCCCCC	천리안 1호 전폭을 알고 싶어
+width	CCCCCCCCCCCCCCCEEEEEECCCCCCC	WIKIPEDIA백과사전에 치와와 사막의 너비 뭐야
+width	CCCCCCCCCEEEEEEEEEECCCCCC	위키백과사전에서 폭스트로트급 잠수함 선폭 뭔지
+width	CCCCCCCEEEECCCCCCC	위키백과에서 처칠전차 폭 검색해봐
+width	EEECCCCCCCCC	사하라의 너비는 몇이야
+width	CCCCCEEEEECCCCCC	백과사전 고비 사막의 너비 뭐
+width	EEEEECCCCCCC	네일로스강 폭을 검색해
+width	EEEEEECCCCCCCCCCCCCCC	코겐의 폭포의 너비 위키 백과로 알아봐
+width	EEEEEEEEECCCCCCCCCCCC	과학기술위성 3호 전폭이 얼마나 되는지
+width	EEEEEEEEECCCCCCCCCCCCCCCCCCCCC	페라리 512TR 전폭 WIKIPEDIA에서 알고 싶어
+width	CCCCCCCCCCCEEEECCCC	WIKIPEDIA로 히다산맥의 너비
+width	EEEEEEEEECCCCCCCC	람보르기니 우라칸 차량폭 몇이야
+width	EEEEECCCCCCCCC	천리안2호의 전폭 탐색해줘
+width	CCCCCEEEECCCCCCCC	WIKI 모로타이의 너비 찾아줘
+width	EEEEECCCCCCC	시트라 섬 너비 탐색해
+width	EEECCCCCCCCCCCCCCCCCC	레간자의 전폭을 위키피디아사전 찾아주라
+width	CCCCCCCCCCCCEEEEEECCCCCCCCCCCC	위키백과사전 검색으로 보티프 교회 건축물 폭을 찾아주라
+width	EEEEEECCCCCCCC	아펜니노산맥 너비 검색해라
+width	EEEEEECCCCCCCC	대우 레스타의 전폭 찾아줘
+width	EEEEEEEEEEECCCCCCC	마이크로프로스시스템즈 폭은 몇이야
+width	EEEEEEEEEECCCCCCC	국제 우주 스테이션 폭 검색해라
+width	EEECCCCCCCCCCCCCCCCCCCCCC	금산로 열차폭을 WIKI PEDIA로 검색해줘
+width	CCCCCCEEEEECCCCCCCCC	WIKI로 안데스산맥의 너비를 찾아줘
+width	EEEEEECCCCCCC	현대 스텔라 차량폭 위키
+width	EEECCCCCCCCCCCCCCCC	라토뉴의 너비 WIKI에서 검색해라
+width	EEEEECCCCCCC	히다 산맥 너비를 찾기
+width	CCCCCCCCCCEEEEEECCCCCCCCC	WIKI백과 검색 사하라 사막 너비를 찾아주라
+width	EEEEEECCCCCC	알라배마 주의 폭 검색
+width	EEECCCCCCCCC	나일강은 폭을 탐색해줘
+width	EECCCCCCCCCCC	안닐의 폭 WIKI 뭐지
+width	CCCEEEEECCCCCCCC	검색 런던브리지가 폭을 검색해
+width	CCCCCCEEEEEEEECCCCCCCC	위키 검색 스칸디나비아산맥 너비 검색해라
+width	CCCCCCCCCCEEEEECCC	WIKI 사전으로 사하라사막 너비
+width	EEEEEEEEECCCCCCCCCCCCC	알아즈하르 모스크의 건축물 너비는 얼만지
+width	EEEEECCCCCCCC	스코가포스 너비 찾아주라
+width	EEEEECCCCCC	옥천3터널 폭 알려줘
+width	CCCCCCCCCEEEEECCCCCCC	WIKI백과사전 시트라 섬 너비를 찾아
+width	CCCCCCEEEEEECCCC	WIKI에 스카이라이너의 전폭
+width	CCCCCCCCCEEEEECCCCCCCC	WIKI사전으로 바레인 섬의 너비 찾아봐
+width	CCCCCCCEEEEEEEECCCCCCCC	위키 백과에 현대 맥스크루즈의 전폭 검색해
+width	EEECCCCCCCCCC	아사마의 선폭을 검색해라
+width	EEEEEEEECCCCCCCCC	자일대우 레스타의 전폭을 검색해
+width	EEEEEECCCCCCCCCCCCCCCCC	VTT323 폭 WIKIPEDIA로 얼마야
+width	EEEEEECCCCCCCCCCCCCCCCC	마리아톨레도 너비 WIKI사전백과에 몇이야
+width	CCCCCCCEEEECCCCCCCC	위키피디아에 경주터널의 폭을 찾아봐
+width	EEEEEEECCCCCCCCCCCCCC	대우 매그너스 전폭 WIKI 사전 뭐야
+width	CCCCCCCCCCCEEEEEEEECCCCCC	WIKI PEDIA 시에라네바다산맥 너비가 뭐
+width	EEEECCCCC	호원터널 너비 뭐
+width	EEEEEEEEEEEECCCCCCCCCC	람보르기니 400 GT의 차량폭을 알아봐
+width	CCCCCEEEEEECCCCCCC	검색으로 살류트 1호의 폭이 뭔지
+width	CCCCCCCCCCCCEEEECCCCCC	위키백과사전 검색으로 중세철학 폭 찾아봐
+width	EEECCCCCCCCCCCCCCCCCCC	운요호 선폭 WIKIPEDIA에서 탐색해
+width	EEEEEECCCCCCCCCCCCCCCCCCC	아리랑 5호 전폭이 WIKI백과사전에서 얼만지
+width	CCCCCCCCCCCEEECCCCCCCCCCC	WIKI PEDIA 어뢰정 폭이 어떻게 되는지
+width	EEEEEEEEEEEECCCCCCCCC	람보르기니 무르시엘라고 전폭을 검색해라
+width	EEEECCC	아이다호의 폭
+width	EEEEECCCCCCCCCCCCCCCCCC	우면산터널의 너비는 WIKI 백과로 어떤지
+width	EEECCCCCCCCC	라토뉴의 너비는 얼마야
+width	EEEEEEEECCCCCCCCCCCCCCCCCC	현대 베라크루즈의 차량폭 WIKI 백과에 얼만지
+width	EEEEECCCCCC	네일로스강 폭을 검색
+width	EEEECCCCCCCCCCC	텍사스주 폭은 얼마나 되는지
+width	CCCCCEEEEEEECCCCCC	검색으로 대전용운중학교 전폭 뭔지
+width	EEEEEEEEECCCCCCCCCCC	알아즈하르 모스크의 건축물 폭 검색해
+width	EEEEECCCCCCCCCCC	천리안2호가 전폭을 알고 싶어
+width	EEEEECCCCCCCCCCCCCCCCCC	상관2터널이 폭을 WIKI사전백과에 검색해
+width	EEEEECCCCCCCCCCCCCCCCCCC	미시간 주 폭 WIKIPEDIA사전에서 검색
+width	EEEECCCCCCCC	상도터널 너비는 얼만지
+width	EEEECCCCCC	이어도호 선폭이 뭐
+width	CCCEEEECCCCCCC	검색 펠라그라 선폭 알아봐
+width	EEEEEEEEECCCCCCCCC	MTAB IORE의 전폭을 알아봐
+width	CCCCCCCCEECCCCCC	WIKI백과에 비호 폭 탐색해
+width	EEEEECCCCCCCCC	천리안위성의 전폭을 알려줘
+width	EEEEEEECCCCCC	국제우주정거장 폭이 뭔지
+width	CCCCCCCCEEEEEEECCCCC	WIKI 사전 라 플라타 강 폭 뭐지
+width	CCCEEEEEECCCCCCCC	검색 모로타이 섬 너비 검색해줘
+width	CCCCCCCCCEEEECCCCCCC	WIKI 백과에 타이타닉 선폭 찾아봐
+width	EEEEEEEEEEEEECCCCCCCCCCCCCC	카렐리안 트레인즈 SM6의 전폭 위키 백과로 뭐야
