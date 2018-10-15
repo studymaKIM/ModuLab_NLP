@@ -7,7 +7,7 @@
 
 
 
-###10월 10일 - From Textual Features to Input (전희원)
+### 10월 10일 - From Textual Features to Input (전희원)
 
 -  음절 단위가 각광을 받고 있다. vocabulary로 나타내었을때 총 11172개인데 자주 쓰이는 것은 몇천개 밖에 되지 않음
 
@@ -54,7 +54,6 @@
 - FastText의 장점은 모르는 단어도 학습이 가능하다는점
 - GluonNLP
 - *pretrain 된 임베딩은 사용하는 이유는 가지고 있는 학습데이터가 작기 때문이다.
-- 
 
 
 
