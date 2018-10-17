@@ -3,4 +3,6 @@
 *.gz
 *.pptx
 *.zip
-
+*.json
+*.txt
+*.params
