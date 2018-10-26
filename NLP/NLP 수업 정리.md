@@ -57,9 +57,21 @@
 
 
 
+### 10월 17일 - NGramDetectors, CNN (김형준)
 
 
 
+
+
+### 10월 22일 - Language Model (전희원)
+
+- generation 하는 부분에는 language model이 들어갈 수 밖에 없다.
+
+- language model 보다는 grammar 가 더 적절한 표현이겠지만 관용적으로 language model (LM)으로 칭한다.
+
+- -https://github.com/oxford-cs-deepnlp-2017
+
+  https://www.edwith.org/deepnlp 
 
 
 
